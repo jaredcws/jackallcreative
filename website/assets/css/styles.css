@@ -814,3 +814,713 @@ textarea {
     display: grid;
   }
 }
+
+/* Jackall brand art-direction pass */
+:root {
+  --ink: #050505;
+  --ink-soft: #36322d;
+  --paper: #f4f0e6;
+  --paper-strong: #fffef6;
+  --line: #050505;
+  --blue: #21a9e8;
+  --yellow: #e8ef2f;
+  --clay: #e4572f;
+  --moss: #697740;
+  --shadow: 9px 9px 0 #050505;
+  --shadow-blue: 9px 9px 0 #21a9e8;
+  --shadow-yellow: 9px 9px 0 #e8ef2f;
+}
+
+body {
+  background:
+    linear-gradient(90deg, rgba(5, 5, 5, 0.04) 1px, transparent 1px),
+    linear-gradient(180deg, rgba(5, 5, 5, 0.04) 1px, transparent 1px),
+    var(--paper);
+  background-size: 48px 48px;
+  font-size: 16px;
+}
+
+.site-header {
+  background: rgba(255, 254, 246, 0.96);
+  border-bottom: 3px solid var(--ink);
+  box-shadow: 0 5px 0 rgba(5, 5, 5, 0.08);
+}
+
+.nav {
+  min-height: 76px;
+}
+
+.brand {
+  min-width: 214px;
+}
+
+.brand img {
+  width: 194px;
+}
+
+.nav-links {
+  gap: 6px;
+}
+
+.nav-links a {
+  border: 2px solid transparent;
+  border-radius: 0;
+  color: var(--ink);
+  font-size: 0.75rem;
+  font-weight: 950;
+  text-transform: uppercase;
+}
+
+.nav-links a:hover,
+.nav-links a[aria-current="page"] {
+  background: var(--yellow);
+  border-color: var(--ink);
+  box-shadow: 4px 4px 0 var(--ink);
+  color: var(--ink);
+}
+
+.nav-toggle {
+  border: 3px solid var(--ink);
+  border-radius: 0;
+  box-shadow: 4px 4px 0 var(--ink);
+}
+
+.button,
+.button-secondary {
+  min-height: 50px;
+  border: 3px solid var(--ink);
+  border-radius: 0;
+  font-size: 0.9rem;
+  font-weight: 950;
+  text-transform: uppercase;
+}
+
+.button {
+  background: var(--yellow);
+  box-shadow: 6px 6px 0 var(--ink);
+}
+
+.button-secondary {
+  background: #fff;
+  color: var(--ink);
+  box-shadow: 6px 6px 0 var(--blue);
+}
+
+.button:hover,
+.button-secondary:hover {
+  transform: translate(-2px, -2px);
+}
+
+.button:hover {
+  box-shadow: 8px 8px 0 var(--ink);
+}
+
+.button-secondary:hover {
+  background: #fff;
+  box-shadow: 8px 8px 0 var(--blue);
+}
+
+.jackall-hero {
+  min-height: calc(96svh - 76px);
+  align-items: center;
+  isolation: isolate;
+  background:
+    linear-gradient(90deg, rgba(5, 5, 5, 0.98), rgba(5, 5, 5, 0.72)),
+    url("../img/brand/jackall-pattern-black.png") center / 620px repeat,
+    var(--hero-image) center / cover no-repeat;
+}
+
+.jackall-hero::after {
+  height: 18%;
+  background: linear-gradient(0deg, var(--paper), rgba(244, 240, 230, 0));
+}
+
+.hero-brand-watermark {
+  position: absolute;
+  top: 4%;
+  right: -7vw;
+  z-index: 0;
+  width: 520px;
+  max-width: 42vw;
+  opacity: 0.9;
+  transform: rotate(5deg);
+}
+
+.hero-brand-watermark img {
+  width: 100%;
+}
+
+.jackall-hero .hero-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(360px, 0.74fr);
+  gap: 52px;
+  align-items: center;
+  padding: 66px 0 118px;
+}
+
+.hero-copy {
+  position: relative;
+  z-index: 1;
+  max-width: 760px;
+}
+
+.hero-script {
+  width: 252px;
+  max-width: 62vw;
+  margin-bottom: 26px;
+  border: 3px solid #fff;
+  box-shadow: var(--shadow-blue);
+}
+
+.hero .eyebrow {
+  color: var(--yellow);
+}
+
+.hero h1,
+.page-hero h1 {
+  max-width: 980px;
+  font-size: 6.8rem;
+  line-height: 0.86;
+  font-weight: 950;
+}
+
+.hero .lede,
+.page-hero .lede {
+  max-width: 720px;
+  font-size: 1.28rem;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.hero .lede {
+  padding-left: 18px;
+  border-left: 8px solid var(--blue);
+}
+
+.hero-showcase {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  gap: 14px;
+  transform: rotate(-1deg);
+}
+
+.showcase-image {
+  overflow: hidden;
+  border: 3px solid #fff;
+  background: #fff;
+  box-shadow: var(--shadow-yellow);
+}
+
+.showcase-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.showcase-primary {
+  aspect-ratio: 4 / 3;
+}
+
+.showcase-row {
+  display: grid;
+  grid-template-columns: 0.86fr 1.14fr;
+  gap: 14px;
+  margin-left: 42px;
+}
+
+.showcase-row .showcase-image {
+  aspect-ratio: 1 / 1;
+  box-shadow: 7px 7px 0 var(--blue);
+}
+
+.showcase-tag {
+  margin: 0 0 0 28px;
+  padding: 14px 16px;
+  border: 3px solid var(--ink);
+  background: var(--yellow);
+  color: var(--ink);
+  font-size: 0.88rem;
+  font-weight: 950;
+  text-transform: uppercase;
+  box-shadow: var(--shadow-blue);
+}
+
+.hero-stat-strip {
+  margin-top: -62px;
+  border: 3px solid var(--ink);
+  background: var(--paper-strong);
+  box-shadow: var(--shadow-blue);
+}
+
+.hero-stat {
+  min-height: 132px;
+  border-right: 3px solid var(--ink);
+  padding: 24px;
+}
+
+.hero-stat strong {
+  font-size: 1.55rem;
+  font-weight: 950;
+  text-transform: uppercase;
+}
+
+.hero-stat span {
+  max-width: 320px;
+  color: var(--ink-soft);
+  font-size: 0.94rem;
+}
+
+.section {
+  padding: 88px 0;
+}
+
+.section.tight {
+  padding: 60px 0;
+}
+
+.section.dark {
+  border-top: 3px solid var(--ink);
+  border-bottom: 3px solid var(--ink);
+  background:
+    linear-gradient(rgba(5, 5, 5, 0.92), rgba(5, 5, 5, 0.92)),
+    url("../img/brand/jackall-pattern-black.png") center / 520px repeat,
+    var(--ink);
+}
+
+.section.blue {
+  border-top: 3px solid var(--ink);
+  border-bottom: 3px solid var(--ink);
+  background:
+    linear-gradient(rgba(33, 169, 232, 0.9), rgba(33, 169, 232, 0.9)),
+    url("../img/brand/jackall-pattern-black.png") center / 620px repeat,
+    var(--blue);
+}
+
+.section-head {
+  gap: 44px;
+  margin-bottom: 42px;
+  padding-bottom: 28px;
+  border-bottom: 3px solid var(--ink);
+}
+
+.dark .section-head,
+.blue .section-head {
+  border-bottom-color: currentColor;
+}
+
+.eyebrow {
+  color: var(--blue);
+  font-size: 0.8rem;
+  font-weight: 950;
+}
+
+.dark .eyebrow {
+  color: var(--yellow);
+}
+
+.blue .eyebrow {
+  color: var(--ink);
+}
+
+h2,
+.page-hero h1 {
+  font-size: 4.05rem;
+  line-height: 0.94;
+  font-weight: 950;
+}
+
+h3 {
+  font-size: 1.55rem;
+  line-height: 1.05;
+  font-weight: 950;
+}
+
+.section-copy {
+  font-size: 1.08rem;
+  color: var(--ink-soft);
+}
+
+.grid-3,
+.grid-4,
+.split,
+.proof-grid,
+.resource-grid {
+  gap: 22px;
+}
+
+.split {
+  gap: 60px;
+}
+
+.service-card,
+.process-step,
+.resource-card,
+.contact-panel,
+.proof-card,
+.quote-panel {
+  border: 3px solid var(--ink);
+  border-radius: 0;
+  background: var(--paper-strong);
+  box-shadow: var(--shadow);
+}
+
+.service-card,
+.process-step,
+.resource-card,
+.contact-panel {
+  padding: 26px;
+}
+
+.service-card,
+.process-step,
+.resource-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.service-card::after,
+.process-step::after,
+.resource-card::after {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 8px;
+  background: var(--yellow);
+  border-bottom: 3px solid var(--ink);
+}
+
+.dark .service-card,
+.dark .process-step,
+.dark .quote-panel {
+  border-color: #fff;
+  background: #111;
+  box-shadow: 9px 9px 0 var(--blue);
+}
+
+.blue .service-card,
+.blue .process-step,
+.blue .resource-card {
+  background: #fffef6;
+  box-shadow: 9px 9px 0 var(--yellow);
+}
+
+.card-number,
+.service-icon {
+  width: 52px;
+  height: 52px;
+  border: 3px solid var(--ink);
+  border-radius: 0;
+  font-size: 0.78rem;
+  font-weight: 950;
+  box-shadow: 4px 4px 0 var(--ink);
+}
+
+.service-icon.blue {
+  background: var(--blue);
+}
+
+.service-icon.clay {
+  background: var(--clay);
+}
+
+.check-list {
+  gap: 14px;
+}
+
+.check-list li {
+  padding-left: 34px;
+  font-weight: 750;
+}
+
+.check-list li::before {
+  top: 0.48em;
+  width: 18px;
+  height: 10px;
+  border: 3px solid var(--ink);
+  background: var(--yellow);
+}
+
+.dark .check-list li::before {
+  border-color: #fff;
+  background: var(--blue);
+}
+
+.image-stack {
+  gap: 18px;
+}
+
+.image-stack img,
+.feature-image,
+.proof-card img,
+.gallery-strip img {
+  border-radius: 0;
+}
+
+.image-stack img,
+.feature-image,
+.gallery-strip img {
+  border: 3px solid var(--ink);
+  box-shadow: var(--shadow);
+}
+
+.dark .feature-image,
+.dark .gallery-strip img {
+  border-color: #fff;
+  box-shadow: var(--shadow-yellow);
+}
+
+.feature-image {
+  aspect-ratio: 5 / 4;
+}
+
+.proof-grid {
+  grid-template-columns: 1.12fr 0.88fr 0.88fr;
+}
+
+.proof-card {
+  overflow: hidden;
+}
+
+.proof-card img {
+  border: 0;
+}
+
+.proof-card-content {
+  border-top: 3px solid var(--ink);
+  background: var(--paper-strong);
+}
+
+.proof-card-content p,
+.service-card p,
+.process-step p,
+.resource-card p {
+  color: var(--ink-soft);
+}
+
+.band {
+  position: relative;
+  overflow: hidden;
+  border-top: 4px solid var(--ink);
+  border-bottom: 4px solid var(--ink);
+  background:
+    linear-gradient(rgba(232, 239, 47, 0.92), rgba(232, 239, 47, 0.92)),
+    url("../img/brand/jackall-pattern-black.png") center / 520px repeat,
+    var(--yellow);
+}
+
+.band-inner {
+  padding: 38px 0;
+}
+
+.band h2 {
+  font-size: 3.05rem;
+  line-height: 0.95;
+  font-weight: 950;
+}
+
+.page-hero {
+  position: relative;
+  overflow: hidden;
+  padding: 112px 0 86px;
+  border-bottom: 4px solid var(--ink);
+  background:
+    linear-gradient(90deg, rgba(5, 5, 5, 0.94), rgba(5, 5, 5, 0.68)),
+    url("../img/brand/jackall-pattern-black.png") center / 620px repeat,
+    var(--hero-image) center / cover no-repeat;
+}
+
+.page-hero::after {
+  content: "";
+  position: absolute;
+  right: -110px;
+  bottom: -170px;
+  width: 460px;
+  height: 460px;
+  background: url("../img/brand/jackall-mark-blue.png") center / contain no-repeat;
+  opacity: 0.88;
+  transform: rotate(8deg);
+}
+
+.page-hero .container {
+  position: relative;
+  z-index: 1;
+}
+
+.page-kicker {
+  border: 3px solid #fff;
+  border-radius: 0;
+  background: var(--yellow);
+  color: var(--ink);
+  box-shadow: 9px 9px 0 var(--blue);
+}
+
+.page-kicker strong {
+  font-size: 2.1rem;
+  font-weight: 950;
+}
+
+.quote-panel {
+  padding: 40px;
+}
+
+.quote-panel blockquote {
+  font-size: 2.8rem;
+  line-height: 0.98;
+  font-weight: 950;
+}
+
+.resource-card a {
+  color: var(--ink);
+  text-transform: uppercase;
+}
+
+.resource-card a::after {
+  content: " ->";
+}
+
+.contact-panel {
+  background:
+    linear-gradient(rgba(255, 254, 246, 0.96), rgba(255, 254, 246, 0.96)),
+    url("../img/brand/jackall-pattern-black.png") center / 460px repeat,
+    var(--paper-strong);
+}
+
+input,
+select,
+textarea {
+  border: 3px solid var(--ink);
+  border-radius: 0;
+  background: #fff;
+}
+
+.site-footer {
+  border-top: 4px solid var(--yellow);
+  background:
+    linear-gradient(rgba(5, 5, 5, 0.94), rgba(5, 5, 5, 0.94)),
+    url("../img/brand/jackall-pattern-black.png") center / 560px repeat,
+    var(--ink);
+}
+
+.footer-brand img {
+  width: 210px;
+}
+
+@media (max-width: 1060px) {
+  .jackall-hero .hero-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-showcase {
+    max-width: 680px;
+  }
+
+  .hero h1,
+  .page-hero h1 {
+    font-size: 5.4rem;
+  }
+
+  h2,
+  .page-hero h1 {
+    font-size: 3.35rem;
+  }
+}
+
+@media (max-width: 940px) {
+  .nav-links {
+    border: 3px solid var(--ink);
+    border-radius: 0;
+  }
+
+  .hero-stat {
+    border-right: 0;
+    border-bottom: 3px solid var(--ink);
+  }
+
+  .section-head {
+    align-items: start;
+  }
+
+  .page-hero::after {
+    width: 320px;
+    height: 320px;
+  }
+}
+
+@media (max-width: 700px) {
+  .brand {
+    min-width: 168px;
+  }
+
+  .brand img {
+    width: 150px;
+  }
+
+  .jackall-hero {
+    min-height: auto;
+  }
+
+  .jackall-hero .hero-inner {
+    padding: 50px 0 92px;
+  }
+
+  .hero-brand-watermark {
+    top: 90px;
+    right: -92px;
+    max-width: none;
+    width: 250px;
+  }
+
+  .hero h1,
+  .page-hero h1,
+  h2,
+  .page-hero h1 {
+    font-size: 3.05rem;
+    line-height: 0.94;
+  }
+
+  h3 {
+    font-size: 1.32rem;
+  }
+
+  .hero .lede,
+  .page-hero .lede {
+    font-size: 1.04rem;
+  }
+
+  .hero-script {
+    width: 205px;
+  }
+
+  .showcase-row {
+    grid-template-columns: 1fr;
+    margin-left: 0;
+  }
+
+  .showcase-tag {
+    margin-left: 0;
+  }
+
+  .section {
+    padding: 64px 0;
+  }
+
+  .section-head {
+    margin-bottom: 30px;
+  }
+
+  .band-inner {
+    padding: 30px 0;
+  }
+
+  .band h2 {
+    font-size: 2.2rem;
+  }
+
+  .quote-panel blockquote {
+    font-size: 2rem;
+  }
+
+  .page-hero {
+    padding: 76px 0 58px;
+  }
+}

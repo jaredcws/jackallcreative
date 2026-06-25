@@ -73,22 +73,24 @@ async function validateHtmlReferences() {
 
   for (const file of localFiles) {
     const source = await readFile(file, "utf8");
-    const attrRefs = [...source.matchAll(/\b(?:src|href)=["']([^"']+)["']/g)].map(
-      (match) => match[1],
-    );
-    const cssRefs = [...source.matchAll(/url\((['"]?)([^'")]+)\1\)/g)].map(
-      (match) => match[2],
-    );
+    const attrRefs = [...source.matchAll(/\b(?:src|href)=["']([^"']+)["']/g)].map((match) => ({
+      ref: match[1],
+    }));
+    const cssRefs = [...source.matchAll(/url\((['"]?)([^'")]+)\1\)/g)].map((match) => ({
+      ref: match[2],
+    }));
     const refs = [...attrRefs, ...cssRefs]
-      .filter((ref) => !ref.startsWith("http"))
-      .filter((ref) => !ref.startsWith("mailto:"))
-      .filter((ref) => !ref.startsWith("tel:"))
-      .filter((ref) => !ref.startsWith("#"));
+      .filter(({ ref }) => !ref.startsWith("http"))
+      .filter(({ ref }) => !ref.startsWith("mailto:"))
+      .filter(({ ref }) => !ref.startsWith("tel:"))
+      .filter(({ ref }) => !ref.startsWith("#"));
 
-    for (const ref of refs) {
+    for (const { ref } of refs) {
       const clean = ref.split("#")[0].split("?")[0];
       if (!clean) continue;
-      const target = path.join(dist, clean.replace(/^\//, ""));
+      const target = clean.startsWith("/")
+        ? path.join(dist, clean.replace(/^\//, ""))
+        : path.join(path.dirname(file), clean);
       if (!existsSync(target)) {
         missing.push(`${path.relative(dist, file)} -> ${ref}`);
       }

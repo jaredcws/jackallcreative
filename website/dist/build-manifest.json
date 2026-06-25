@@ -6,7 +6,7 @@
     },
     {
       "path": "assets/css/styles.css",
-      "bytes": 12784
+      "bytes": 24323
     },
     {
       "path": "assets/img/brand/jackall-creative-wordmark-black.png",
@@ -23,6 +23,10 @@
     {
       "path": "assets/img/brand/jackall-mark-blue.png",
       "bytes": 73680
+    },
+    {
+      "path": "assets/img/brand/jackall-pattern-black.png",
+      "bytes": 1183385
     },
     {
       "path": "assets/img/brand/jackall-paw-blue.png",
@@ -113,10 +117,6 @@
       "bytes": 1262
     },
     {
-      "path": "build-manifest.json",
-      "bytes": 3199
-    },
-    {
       "path": "contact.html",
       "bytes": 7260
     },
@@ -126,7 +126,7 @@
     },
     {
       "path": "index.html",
-      "bytes": 11037
+      "bytes": 12071
     },
     {
       "path": "resources.html",
