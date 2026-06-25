@@ -1,0 +1,164 @@
+# the updAIt - 02.28.26 - Jackall Creative
+
+Source: https://www.jackallcreative.com/blog/blog-post-title-two-t5my5-k4xmd-67jzh-xzw3f
+Description: It All Begins Here
+
+## Extracted Text
+
+- the updAIt - 02.28.26 - Jackall Creative
+- Open Menu
+- Close Menu
+- Open Menu
+- Close Menu
+- Folder:
+- the updAIt - 02.28.26
+- Feb 28
+- Written By jared heidemann
+- February 2026 · by Jared Heidemann
+- TL;DR
+- OpenAI acquires OpenClaw, an OpenAI hire, and a dozen copycat products in under 60 days.
+- Cutting-edge AI from September? Free and running on laptops by February.
+- Jack Dorsey just cut 40% of Block's workforce — 4,000 people — and said most companies are just late to the same conclusion. The stock went up 24%.
+- The big shift: AI capability is commoditizing fast. Having access to it isn't the advantage anymore. Knowing how to deploy it — efficiently, strategically, and for the things only humans can do — is.
+- Full breakdown (with plain-English explainers for every technical term) in the article below.
+- 📌 A quick note before we start
+- AI Dictionary
+- AI talk can sound like a foreign language. So throughout this article, wherever I use a technical term, I've added a "WAYTA Box" (What Are You Talking About?) right below it — written with simple definitions and examples to make each easier to understand... the way I needed it explained. You'll spot them by the 🦞 icons.
+- Since My Last Article
+- In my last article, I said AI was moving from a tool you talk to, into a system that goes and does things on its own. I pointed to OpenClaw (Clawdbot, Moltbot, OpenClaw) as proof that this wasn't a future thing - it was here. I said the big players would chase that direction fast. I was correct on direction... but underestimated how fast.
+- OpenClaw was built by one guy, Peter Steinberger, as a side project in November 2025. Within weeks it had close to 200,000 stars on GitHub and 2 million people using it every week.
+- On February 15th, 2026 — in less than 60 days from when OpenClaw went viral — Sam Altman announced Steinberger was joining OpenAI to build the next generation of personal agents.
+- The same day that the announcement dropped, Meta launched Manus Agents — their own autonomous agent product — and Moonshot AI (a major Chinese AI company) launched Kimi Claw, a browser-based version of OpenClaw that runs in the cloud with 5,000 pre-built skills and 40GB of storage. Both launched within hours of the OpenAI announcement (Zuckerberg was the other finalist for OpenClaw). LLMs and tech giants saw the demand and moved quickly.
+- Here's a short list of what was built in less than 60 days from OpenClaw going viral to its sale:
+- Kimi Claw — Moonshot AI's browser-based version. No install needed, runs 24/7 in the cloud, 5,000+ pre-built skills. Launched the same day as the OpenAI announcement.
+- Manus Agents — Meta's answer. Launched the same day. Integrating into WhatsApp, Facebook, and Instagram by mid-2026.
+- Quill — Positioned as the "safe enterprise version of OpenClaw" — built for legal, finance, and healthcare, where you need a human approving each step before it runs.
+- NanoBot — A stripped-down version. 4,000 lines of code versus OpenClaw's 430,000. Install it in 60 seconds. Built to reach platforms in China like WeChat and DingTalk that OpenClaw doesn't support.
+- ZeroClaw, NullClaw, PicoClaw, IronClaw, TinyClaw — A wave of open-source spin-offs each solving a specific problem: running on cheap hardware, stronger security, coordinating multiple agents at once, better long-term memory.
+- AstrBot — Built specifically for the Chinese market with 800+ plugins for local platforms.
+- White Claw — Okay, not real. But honestly, at this point, useful for talking to people like me who bring up AI at parties.
+- One weekend project (built upon 40 or so other projects Peter Steinberger had been building). And in less than 60 days, an estimated $2 billion acquisition, OpenAI hire, and more competing products than I listed above.
+- Token Burn - Kind Of A Big Deal
+- Most people thinking about AI tools are focused on the wrong number. They ask what something costs per month. The better question is: what does it cost per task?
+- Every time an AI agent does something — reads a document, writes a sentence, searches the web, sends a message — it uses tokens. A quick question might use a few hundred. Something more complicated and involves researching competitors, writing a report, and formatting it five different ways could burn more than 10,000. Apply that across a whole team doing things in the background all day, and your $20/month tool starts looking like an AWS bill.
+- 🦞 WAYTA Box
+- AI Agent = Imagine a robot that lives inside your computer. You give it a job to do — "research these three competitors and write me a summary" — and it goes and does it on its own. You don't click every step. It figures it out. That's an agent.
+- Tokens = That robot has to pay for everything it does. Tokens are its currency. Think of them like an allowance or a budget you give the agent before it starts. Every word it reads, writes, or processes costs tokens. When the budget runs out, it stops. A simple task might cost a few hundred. A big complex one could cost tens of thousands.
+- API Key = This is like your personal credit card number for accessing an AI's brain. When your agent plugs that key in, it charges your account for whatever work it does.
+- API Call = Every time your agent does something using that key — searches, writes, thinks — it's making a call. Like swiping a card. Each swipe has a cost.
+- This is why Perplexity's launch of 'Perplexity Computer' this week is worth paying attention to. Instead of one AI doing everything, it routes each task to one of 19 different models. Identifying the best fit can reduce token burn.
+- Older models are cheaper to run, so architecting parameters that designate easier tasks to cheaper LLM models, while still accomplishing the goal, increases efficiency and stretches your dollar.
+- OpenClaw lets people build this kind of setup themselves, by hand. Perplexity packaged it into a product anyone can use. The underlying idea is the same: smarter routing means better results for less money. This is important as long as the budget is a factor you're managing.
+- 🦞 WAYTA Box
+- Routing = Instead of always using your most powerful (and expensive) AI for everything, smart systems send each task to the right model for that job. Like using a food truck for lunch instead of a Michelin-star restaurant. Same hunger solved, very different cost.
+- Agent Architecture = This is the overall plan for how your AI agents are set up, what they can do, which models they use, how much they're allowed to spend, and how they hand tasks off to each other. Think of it like org chart design — but for robots. A well-designed architecture means your agents do more, waste less, and don't go rogue on your credit card.
+- Every Day There Is A New Innovation... It's Exhausting
+- Here's the number that stopped me this week. 5 Months.
+- On September 29th, 2025, Anthropic released Claude Sonnet — keep that date in mind. When it came out, it was considered near-frontier AI. Meaning: one of the smartest, most capable models available to the public. Cutting-edge.
+- On February 16th, 2026 — less than five months later — Alibaba released Qwen 3.5. It benchmarks competitively with that same Claude Sonnet. Qwen 3.5's Flash tier costs roughly 1/13th of Sonnet's per-token price. In some benchmarks, it responds six times faster. And the full model is open-source under Apache 2.0, meaning anyone can download it and run it. Free. Without internet.
+- September 29th: cutting-edge AI. February 16th: free, runs on your laptop, no internet required. That's less than 5 months.
+- What required enterprise infrastructure and a premium subscription in September now runs on a laptop in February. The pace of that compression is unlike anything that's happened in software before.
+- For businesses with real privacy concerns — legal, healthcare, finance, HR — this changes everything. The question is no longer "can we afford capable AI?" It's "do we have someone who knows how to set it up?"
+- That's a very different conversation than most organizations are having right now.
+- 🦞 WAYTA Box
+- Open-source = The full design and code is free and public. Anyone can download it, use it, change it, build on it — no license fee, no monthly cost.
+- Apache 2.0 = A type of open-source license that basically says: use this however you want, commercially or personally. Just give credit.
+- Benchmark = A standardized test that measures how capable an AI model is. Think of it like a GPA or an IQ test for AI models.
+- Running locally / on your desktop = Instead of sending your questions to a server somewhere else (like you do with ChatGPT), the AI runs entirely on your own computer. Your data never leaves. Nothing is sent anywhere. Tools like Ollama and LM Studio are free apps that let you do exactly this — download a model and run it on your own machine in minutes, no technical background needed.
+- A New Prediction
+- Last article, I predicted the big players would target OpenClaw's abilities as the direction consumers wanted. I definitely underestimated the pace. This time I'll make a new prediction — something to think about.
+- For most people and most businesses, the future of AI is going to come in tiers based on what you can afford to spend. Smart agent architecture, choosing the right models for specific tasks, setting budgets, and running cheaper local models when you can, will be what separates the organizations that scale AI effectively from the ones unable to absorb the cost. There will be a whole industry built around helping regular businesses use AI efficiently. That's the mass market.
+- 🦞 WAYTA Box
+- Agent architecture = The blueprint for how your AI setup runs. Which models do which jobs? How much can each one spend? What happens when one finishes and needs to hand off to another? Good architecture means your AI does more, wastes less, and stays inside your budget. Bad architecture means it burns through money doing things the slow expensive way when a cheaper tool would've worked fine.
+- But there's a second tier that none of those rules apply to. Remember when I said, "This is important as long as the budget is a factor you're managing."
+- Governments, militaries, and the largest companies on earth are not building AI systems around individual affordability. The US Department of Defense is not worried about its monthly token bill. A wealth fund managing trillions doesn't pick models based on what runs on a Mac Mini. When you take cost completely off the table, the gap between what they can run and what everyone else can run will grow exponentially.
+- The US Military is not budgeting for tokens. That gap between what they can run and what you can afford gets wider every single month.
+- While the rest of the world figures out efficiency, the top-tier players run unlimited agents around the clock, processing information at a scale nothing else can match. And here's where it gets uncomfortable for anyone running a business.
+- Companies like Google, Anthropic, OpenAI, and Meta will eventually be able to enter any market where their AI is now capable of doing the core work. They have the models. They have the infrastructure. They have no meaningful token constraints. The businesses most at risk are the ones whose entire value comes from doing something that AI can now do — information retrieval, first drafts, workflow management, rule-based analysis, contract review, threat monitoring, customer service, and basic research.
+- This isn't that different from what Walmart did to small businesses. Walmart didn't make a better product. They just had the scale to operate at a cost that local stores couldn't survive against. The handful of companies sitting on top of AI infrastructure can eventually deploy that same logic across nearly any knowledge-work industry — entering markets at a cost and speed that most standalone businesses simply cannot compete with.
+- The businesses that survive this won't necessarily be the ones using the most AI. They'll be the ones that have something AI can't replicate — deep relationships, trust built over years, or the judgment to know when not to use it.
+- Walmart didn't make a better product. They just had the scale to operate at a cost nobody else could match. The top AI companies are building the same advantage across every knowledge-work industry at once.
+- If that sounds abstract, here's what it looks like in practice — and it happened today, while I was finishing this article.
+- Jack Dorsey announced that Block, the company behind Square, Cash App, and Afterpay, is cutting its workforce by 40%. More than 4,000 people are gone. His exact words were "Intelligence tools have changed what it means to build and run a company."
+- He's cutting people because he doesn't need them anymore and Block's stock went up 24% after hours.
+- A CEO of a major public company — a profitable one — cutting nearly half his staff and telling shareholders that most other companies are just late to the same conclusion. The gap between what AI can do and how many humans you need to run a business is not a future problem. It's a today problem. And the executives being honest about it are the ones moving first.
+- Big Labs Shipping Products = Indsustry Scale Repricing
+- When a company like Google or Anthropic releases a real product — not a research paper, an actual thing you can use — entire industry categories can reprice in a matter of weeks.
+- Take Google's Lyria 3. Suno, an AI music generation company, was valued at $2.5 billion. It was genuinely impressive, best-in-class. Then a Google built a comparable capability directly into its own platform — free, as a feature inside a product people already had. The standalone value of anything Suno was doing became a question mark immediately.
+- Anthropic's Claude Cowork isn't just a productivity tool, it challenges entire categories of software, legal research tools, cybersecurity workflow platforms, and more. When an AI can handle multi-step work that previously required specialized software, automatically, at scale, that software's reason to exist is impacted immediately.
+- 🦞 WAYTA Box
+- SaaS = Software as a Service. Every app you pay a monthly fee for: your project manager, your CRM, your legal contract tool, your invoicing software. Anything you access through a browser and subscribe to.
+- Claude Cowork = Anthropic's product that lets AI agents manage files, coordinate tasks, and run workflows across your computer on your behalf — doing what many of those SaaS tools do, automatically.
+- Valuation getting crushed = When the thing a company charges a lot for... suddenly comes free inside a tool everyone already has. The business world doesn't wait politely for the next earnings call. It adjusts immediately.
+- The Bigger Picture
+- Here's how I'd summarize where all of this is going.
+- AI capability is becoming free for many (though it still has drawbacks like speed). The models that cost serious money six months ago are now open-source and running on laptops. That means having access to capable AI is no longer a competitive advantage by itself. Everyone will have it.
+- What separates organizations going forward isn't whether they're using AI. It's how well they've set it up. Which models are they using for which jobs? Are they managing token costs intelligently? Are they building agents that actually work together, or just throwing expensive models at every problem?
+- For most businesses, that's the game for the next few years. Efficient architecture, smart cost management, and building internal knowledge on how to deploy it well.
+- Above that are organizations with no budget ceiling, and the gap between what they can do and what everyone else can do will compound exponentially. The largest AI companies will eventually have the capability to walk into nearly any information-based industry and operate at a cost no standalone competitor can match.
+- The people who will still be standing will be those who built something that can't be automated, real relationships, earned trust, and genuine expertise. Those face-to-face relationships and the trust built, that's what will remove the skepticism every interaction will have that occurs through a screen.
+- jared heidemann
+- Next
+- the updAIt - 02.04.26
+- we’d love to work with you!
+
+## Links
+
+- 0: https://www.jackallcreative.com/cart
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Folder: Contact Us: https://www.jackallcreative.com/contacts
+- Back: https://www.jackallcreative.com/
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- jared heidemann: https://www.jackallcreative.com/blog?author=59b46576b07869610d088558
+- AI Dictionary: https://www.jackallcreative.com/blog/aidictionary
+- jared heidemann: https://www.jackallcreative.com/blog?author=59b46576b07869610d088558
+- Next Next the updAIt - 02.04.26: https://www.jackallcreative.com/blog/the-updait-1
+- Contact Us: mailto:jackallcreative@gmail.com?bcc=jaredheidemann%40gmail.com&=undefined&body=Company%20Name%3A%0AContact%20Name%3A%0AContact%20Email%3A%0APhone%20Number%3A%0A%0ATell%20us%20about%20your%20creative%20needs%3A
+
+## Image Assets
+
+- http://static1.squarespace.com/static/6043c607f6dd7f368d39e0d5/69a078644a0dd057fa82bf9f/69a078644a0dd057fa82bfa6/1772485982038/the+updait+feb+2026.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=2500w
+- Jackall Creative: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e0677046-a23d-40dc-837e-a16e8493d08a/Jackall+Creative+2025+Wordmark+design_Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/59b46576b07869610d088558/3fd2f857-66d8-4913-9d84-94114d08353e/thirdPartyMemberAvatar-59b46576b07869610d088558-02ce2915-6ea8-404b-8314-10c51f8697cf?format=300w

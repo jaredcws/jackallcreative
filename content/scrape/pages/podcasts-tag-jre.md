@@ -1,0 +1,163 @@
+# JRE - Rise and Pod - Jackall Creative
+
+Source: https://www.jackallcreative.com/podcasts/tag/JRE
+
+## Extracted Text
+
+- JRE - Rise and Pod - Jackall Creative
+- Open Menu
+- Close Menu
+- Open Menu
+- Close Menu
+- Folder:
+- Podcast Episodes You Might Enjoy
+- We love podcasts! We hope you enjoy this curated list.
+- Conversational
+- jared heidemann
+- 10/26/21
+- Conversational
+- jared heidemann
+- 10/26/21
+- The Joe Rogan Experience #1724
+- Jewell
+- Jewell made it big in the 90s as a musician. Many know her hits, but have no knowledge of her life and all she has overcome. Truly an amazing podcast, her ability to remain optimistic and full of life is relentless.
+- This episode will easily make the top ten JRE episodes ever.
+- Read More
+- Conversational
+- jared heidemann
+- 5/24/21
+- Conversational
+- jared heidemann
+- 5/24/21
+- The Joe Rogan Experience #974
+- Megan Phelps-Roeper
+- Megan Phelps-Roper is a social media activist, lobbying to overcome divisions and hatred between religious and political divides. Formerly a prominent member of the Westboro Baptist Church, she left the church with her sister Grace in November 2012.
+- Read More
+- Conversational
+- jared heidemann
+- 5/8/21
+- Conversational
+- jared heidemann
+- 5/8/21
+- The Joe Rogan Experience #1419
+- Daryl Davis
+- Daryl Davis is an R&B and blues musician, activist, author, actor and bandleader. He is most well known for his work concerning the Ku Klux Klan. His efforts to fight racism, in which as an African-American he engaged with members of the Ku Klux Klan (KKK), convinced Klansmen to leave and denounce the KKK. He also is the author of "Klan-destine Relationships: A Black Man's Odyssey in the Ku Klux Klan".
+- Read More
+- Conversational
+- jared heidemann
+- 4/25/21
+- Conversational
+- jared heidemann
+- 4/25/21
+- The Joe Rogan Experience #405
+- Steven Pressfield, Aubrey Marcus
+- Steven Pressfield is an author of fiction, non-fiction, and screenplays, known for books such as "The War of Art" and "The Legend of Bagger Vance".
+- Aubrey Marcus is writer, entrepreneur, and adventurer. Some of his writings and experiences can be found on his website, WarriorPoet.us, as well as links to his latest venture, Onnit Labs.
+- Read More
+- Conversational
+- jared heidemann
+- 5/28/19
+- Conversational
+- jared heidemann
+- 5/28/19
+- The Joe Rogan Experience #958
+- Jordan Peterson
+- Jordan Peterson is a clinical psychologist and tenured professor of psychology at the University of Toronto.
+- Read More
+- Rise and Pod Alerts
+- Sign up with your email address to receive an alert when we drop a recommendation!
+- Email Address
+- Sign Up
+- Thank you!
+- we’d love to work with you!
+
+## Links
+
+- 0: https://www.jackallcreative.com/cart
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Folder: Contact Us: https://www.jackallcreative.com/contacts
+- Back: https://www.jackallcreative.com/
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- The Joe Rogan Experience #1724: https://www.jackallcreative.com/podcasts/40-2c6f7
+- Read More: https://www.jackallcreative.com/podcasts/40-2c6f7
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- The Joe Rogan Experience #974: https://www.jackallcreative.com/podcasts/33
+- Read More: https://www.jackallcreative.com/podcasts/33
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- The Joe Rogan Experience #1419: https://www.jackallcreative.com/podcasts/17
+- Read More: https://www.jackallcreative.com/podcasts/17
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- The Joe Rogan Experience #405: https://www.jackallcreative.com/podcasts/8
+- Read More: https://www.jackallcreative.com/podcasts/8
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- Conversational: https://www.jackallcreative.com/podcasts/category/Conversational
+- The Joe Rogan Experience #958: https://www.jackallcreative.com/podcasts/1
+- Read More: https://www.jackallcreative.com/podcasts/1
+- Contact Us: mailto:jackallcreative@gmail.com?bcc=jaredheidemann%40gmail.com&=undefined&body=Company%20Name%3A%0AContact%20Name%3A%0AContact%20Email%3A%0APhone%20Number%3A%0A%0ATell%20us%20about%20your%20creative%20needs%3A
+
+## Image Assets
+
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=2500w
+- Jackall Creative: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e0677046-a23d-40dc-837e-a16e8493d08a/Jackall+Creative+2025+Wordmark+design_Wordmark+no+tail.png?format=1500w

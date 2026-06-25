@@ -1,0 +1,346 @@
+# Story Telling - Rise and Pod - Jackall Creative
+
+Source: https://www.jackallcreative.com/podcasts/category/Story+Telling
+
+## Extracted Text
+
+- Story Telling - Rise and Pod - Jackall Creative
+- Open Menu
+- Close Menu
+- Open Menu
+- Close Menu
+- Folder:
+- Podcast Episodes You Might Enjoy
+- We love podcasts! We hope you enjoy this curated list.
+- Story Telling
+- jared heidemann
+- 5/22/21
+- Story Telling
+- jared heidemann
+- 5/22/21
+- This American Life #704
+- The Out Crowd
+- “Last week, our episode " The Out Crowd " won the very first Pulitzer Prize ever awarded to a radio show. This is the episode that won, with some updates on the stories. Hear what the Trump administration’s "Remain in Mexico" policy actually means, on the ground, at the Mexican border.”
+- The Out Crowd
+- This American Life - WBEZ
+- Read More
+- Story Telling ,
+- History
+- jared heidemann
+- 5/18/21
+- Story Telling ,
+- History
+- jared heidemann
+- 5/18/21
+- Snap Judgment
+- This Is Not a Drill
+- Ballistic missile threat inbound to Hawaii. Seek immediate shelter. A very special presentation of the day the world almost ended.
+- Read More
+- Story Telling
+- jared heidemann
+- 5/15/21
+- Story Telling
+- jared heidemann
+- 5/15/21
+- Reply All #86
+- Man of the People
+- A new technology falls into the wrong hands.
+- Read More
+- Story Telling ,
+- comedy ,
+- Sports
+- jared heidemann
+- 5/14/21
+- Story Telling ,
+- comedy ,
+- Sports
+- jared heidemann
+- 5/14/21
+- The Dollop #12
+- The Rube
+- If you listened to yesterday’s The Moth recommendation, a funny light-hearted episode is needed. Dave Anthony and Gareth Reynolds discuss legendary baseball player Rube Waddell.
+- Read More
+- Story Telling
+- jared heidemann
+- 5/13/21
+- Story Telling
+- jared heidemann
+- 5/13/21
+- The Moth
+- The Best of Times, The Worst of Times by Anthony Griffith
+- The Moth is a podcast where a person gets a mic and tells a story. Often gripping and emotional, this episode tops the list. This episode of The Moth is delivered by Anthony Griffith and the pain experienced by a parent and comedian who’s child is diagnosed with cancer. A recommendation for those who choose to listen to this, avoid public areas as it is a very emotional episode.
+- The episode is available here: The Best of Times, The Worst of Times
+- A post episode interview with Anthony Griffith is available here.
+- Read More
+- Story Telling
+- jared heidemann
+- 5/10/21
+- Story Telling
+- jared heidemann
+- 5/10/21
+- Radio Lab
+- The Living Room
+- “We're thrilled to present a piece from one of our favorite podcasts, Love + Radio (Nick van der Kolk and Brendan Baker).
+- Producer Briana Breen brings us the story: Diane’s new neighbors across the way never shut their curtains, and that was the beginning of an intimate, but very one-sided relationship.”
+- https://www.wnycstudios.org/podcasts/radiolab/articles/living-room
+- The Living Room
+- Radio Lab - WNYC Studios
+- Read More
+- History ,
+- Story Telling
+- jared heidemann
+- 5/9/21
+- History ,
+- Story Telling
+- jared heidemann
+- 5/9/21
+- Wind of Change
+- My Friend Michael
+- The Scorpions’ song “Wind of Change” became the soundtrack to the end of the Cold War. But decades later, New Yorker investigative journalist Patrick Radden Keefe heard a rumor from a trusted source: the Scorpions didn’t write the song. The CIA did.
+- This is episode one of a very compelling series.
+- Read More
+- Story Telling ,
+- comedy
+- jared heidemann
+- 5/7/21
+- Story Telling ,
+- comedy
+- jared heidemann
+- 5/7/21
+- The Dollop #15
+- Ten Cent Beer Night
+- Dave Anthony and Gareth Reynolds discuss the Cleveland Indians famous 10 Cent Beer Night in 1974.
+- Read More
+- Story Telling ,
+- Sports
+- jared heidemann
+- 5/6/21
+- Story Telling ,
+- Sports
+- jared heidemann
+- 5/6/21
+- Radio Lab
+- Cut and Run
+- “Legions of athletes, sports gurus, and scientists have tried to figure out why Kenyans dominate long-distance running. In this short, we stumble across a surprising, and sort of terrifying, explanation.”
+- https://www.wnycstudios.org/podcasts/radiolab/articles/runners
+- Cut and Run
+- Radio Lab - WNYC Studios
+- Read More
+- Story Telling
+- jared heidemann
+- 5/4/21
+- Story Telling
+- jared heidemann
+- 5/4/21
+- This American Life #129
+- Cars
+- “We spend a month at a Jeep dealership on Long Island as they try to make their monthly sales goal: 129 cars. If they make it, they'll get a huge bonus from the manufacturer, possibly as high as $85,000 — enough to put them in the black for the month. If they don't make it, it'll be the second month in a row. So they pull out all the stops.”
+- https://www.thisamericanlife.org/513/129-cars
+- Cars
+- This American Life - WBEZ
+- Read More
+- Story Telling ,
+- Scary
+- jared heidemann
+- 5/3/21
+- Story Telling ,
+- Scary
+- jared heidemann
+- 5/3/21
+- Radio Rental #04
+- Episode 04
+- If You Don’t Slow Down
+- A man turns out to be a character... in someone else’s nightmare.
+- Laura of the Woods
+- A young boy makes a new friend in the woods… but is she who she claims to be?
+- https://radiorentalusa.com/listen/
+- Episode 4
+- Radio Rental
+- Read More
+- Story Telling
+- jared heidemann
+- 5/2/21
+- Story Telling
+- jared heidemann
+- 5/2/21
+- Reply All #104
+- The Case of the Phantom Caller
+- A woman in New Jersey is getting strange phone calls to her office from unknown numbers. Every time she picks up, she finds herself eavesdropping on the life of a different stranger. Unsure what else to do, she calls in Super Tech Support.
+- Read More
+- Story Telling
+- jared heidemann
+- 5/1/21
+- Story Telling
+- jared heidemann
+- 5/1/21
+- Mystery Show #3
+- Belt Buckle
+- “A young boy finds an enchanting object in the street.”
+- Read More
+- Story Telling
+- jared heidemann
+- 5/28/19
+- Story Telling
+- jared heidemann
+- 5/28/19
+- Reply All #158
+- The Case of the Missing Hit
+- A man in California is haunted by the memory of a pop song from his youth. He can remember the lyrics and the melody. But the song itself has vanished, completely scrubbed from the internet. PJ takes on the Super Tech Support case.
+- Read More
+- Rise and Pod Alerts
+- Sign up with your email address to receive an alert when we drop a recommendation!
+- Email Address
+- Sign Up
+- Thank you!
+- we’d love to work with you!
+
+## Links
+
+- 0: https://www.jackallcreative.com/cart
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Folder: Contact Us: https://www.jackallcreative.com/contacts
+- Back: https://www.jackallcreative.com/
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- This American Life #704: https://www.jackallcreative.com/podcasts/31
+- The Out Crowd: https://www.thisamericanlife.org/688/the-out-crowd
+- Pulitzer Prize: https://www.thisamericanlife.org/about/announcements/we-just-won-the-first-ever-pulitzer-prize-for-audio-journalism
+- Read More: https://www.jackallcreative.com/podcasts/31
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Snap Judgment: https://www.jackallcreative.com/podcasts/27
+- Read More: https://www.jackallcreative.com/podcasts/27
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Reply All #86: https://www.jackallcreative.com/podcasts/24
+- Read More: https://www.jackallcreative.com/podcasts/24
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- comedy: https://www.jackallcreative.com/podcasts/category/comedy
+- Sports: https://www.jackallcreative.com/podcasts/category/Sports
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- comedy: https://www.jackallcreative.com/podcasts/category/comedy
+- Sports: https://www.jackallcreative.com/podcasts/category/Sports
+- The Dollop #12: https://www.jackallcreative.com/podcasts/22
+- Read More: https://www.jackallcreative.com/podcasts/22
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- The Moth: https://www.jackallcreative.com/podcasts/23
+- Anthony Griffith: http://themoth.org/storytellers/anthony-griffith
+- The episode is available here: The Best of Times, The Worst of Times: https://themoth.org/stories/the-best-of-times-the-worst-of-times
+- A post episode interview with Anthony Griffith is available here.: https://soundcloud.com/mothstories/moth-radio-extra-an-interview-with-anthony-griffith
+- Read More: https://www.jackallcreative.com/podcasts/23
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Radio Lab: https://www.jackallcreative.com/podcasts/19
+- https://www.wnycstudios.org/podcasts/radiolab/articles/living-room: https://www.wnycstudios.org/podcasts/radiolab/articles/living-room
+- Read More: https://www.jackallcreative.com/podcasts/19
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Wind of Change: https://www.jackallcreative.com/podcasts/18
+- Read More: https://www.jackallcreative.com/podcasts/18
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- comedy: https://www.jackallcreative.com/podcasts/category/comedy
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- comedy: https://www.jackallcreative.com/podcasts/category/comedy
+- The Dollop #15: https://www.jackallcreative.com/podcasts/16-xpxp7
+- Read More: https://www.jackallcreative.com/podcasts/16-xpxp7
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Sports: https://www.jackallcreative.com/podcasts/category/Sports
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Sports: https://www.jackallcreative.com/podcasts/category/Sports
+- Radio Lab: https://www.jackallcreative.com/podcasts/4
+- https://www.wnycstudios.org/podcasts/radiolab/articles/runners: https://www.wnycstudios.org/podcasts/radiolab/articles/runners
+- Read More: https://www.jackallcreative.com/podcasts/4
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- This American Life #129: https://www.jackallcreative.com/podcasts/5
+- Jeep dealership on Long Island: http://www.towncountryjeepchryslerdodge.com/index.htm
+- https://www.thisamericanlife.org/513/129-cars: https://www.thisamericanlife.org/513/129-cars
+- Read More: https://www.jackallcreative.com/podcasts/5
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Scary: https://www.jackallcreative.com/podcasts/category/Scary
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Scary: https://www.jackallcreative.com/podcasts/category/Scary
+- Radio Rental #04: https://www.jackallcreative.com/podcasts/6
+- https://radiorentalusa.com/listen/: https://radiorentalusa.com/listen/
+- Read More: https://www.jackallcreative.com/podcasts/6
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Reply All #104: https://www.jackallcreative.com/podcasts/16
+- Read More: https://www.jackallcreative.com/podcasts/16
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Mystery Show #3: https://www.jackallcreative.com/podcasts/15-a
+- Read More: https://www.jackallcreative.com/podcasts/15-a
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Reply All #158: https://www.jackallcreative.com/podcasts/2
+- Read More: https://www.jackallcreative.com/podcasts/2
+- Contact Us: mailto:jackallcreative@gmail.com?bcc=jaredheidemann%40gmail.com&=undefined&body=Company%20Name%3A%0AContact%20Name%3A%0AContact%20Email%3A%0APhone%20Number%3A%0A%0ATell%20us%20about%20your%20creative%20needs%3A
+
+## Image Assets
+
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=2500w
+- Jackall Creative: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e0677046-a23d-40dc-837e-a16e8493d08a/Jackall+Creative+2025+Wordmark+design_Wordmark+no+tail.png?format=1500w

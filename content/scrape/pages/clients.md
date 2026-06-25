@@ -1,0 +1,152 @@
+# Blog 2 - Jackall Creative
+
+Source: https://www.jackallcreative.com/clients
+
+## Extracted Text
+
+- Blog 2 - Jackall Creative
+- Open Menu
+- Close Menu
+- Open Menu
+- Close Menu
+- Folder:
+- jared heidemann
+- 3/7/21
+- jared heidemann
+- 3/7/21
+- Read More
+- jared heidemann
+- 3/11/19
+- jared heidemann
+- 3/11/19
+- Blog Post Title One
+- Read More
+- jared heidemann
+- 3/11/19
+- jared heidemann
+- 3/11/19
+- Blog Post Title Two
+- Read More
+- jared heidemann
+- 3/11/19
+- jared heidemann
+- 3/11/19
+- Blog Post Title Three
+- Read More
+- jared heidemann
+- 3/11/19
+- jared heidemann
+- 3/11/19
+- Blog Post Title Four
+- Read More
+- we’d love to work with you!
+
+## Links
+
+- 0: https://www.jackallcreative.com/cart
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Folder: Contact Us: https://www.jackallcreative.com/contacts
+- Back: https://www.jackallcreative.com/
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/clients/8g809tqwm1r8hj6yw16kc69qrgzfwy
+- https://www.jackallcreative.com/clients/8g809tqwm1r8hj6yw16kc69qrgzfwy
+- Read More: https://www.jackallcreative.com/clients/8g809tqwm1r8hj6yw16kc69qrgzfwy
+- https://www.jackallcreative.com/clients/blog-post-title-one-gdyx8
+- Blog Post Title One: https://www.jackallcreative.com/clients/blog-post-title-one-gdyx8
+- Read More: https://www.jackallcreative.com/clients/blog-post-title-one-gdyx8
+- https://www.jackallcreative.com/clients/blog-post-title-two-l65rc
+- Blog Post Title Two: https://www.jackallcreative.com/clients/blog-post-title-two-l65rc
+- Read More: https://www.jackallcreative.com/clients/blog-post-title-two-l65rc
+- https://www.jackallcreative.com/clients/blog-post-title-three-atyx7
+- Blog Post Title Three: https://www.jackallcreative.com/clients/blog-post-title-three-atyx7
+- Read More: https://www.jackallcreative.com/clients/blog-post-title-three-atyx7
+- https://www.jackallcreative.com/clients/blog-post-title-four-mrfxd
+- Blog Post Title Four: https://www.jackallcreative.com/clients/blog-post-title-four-mrfxd
+- Read More: https://www.jackallcreative.com/clients/blog-post-title-four-mrfxd
+- Contact Us: mailto:jackallcreative@gmail.com?bcc=jaredheidemann%40gmail.com&=undefined&body=Company%20Name%3A%0AContact%20Name%3A%0AContact%20Email%3A%0APhone%20Number%3A%0A%0ATell%20us%20about%20your%20creative%20needs%3A
+
+## Image Assets
+
+-   : https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180283950-V658GHUKYOS3WPN09JH2/K-Johnson-Construction_1.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180283950-V658GHUKYOS3WPN09JH2/K-Johnson-Construction_1.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180283950-V658GHUKYOS3WPN09JH2/K-Johnson-Construction_1.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180283950-V658GHUKYOS3WPN09JH2/K-Johnson-Construction_1.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180283950-V658GHUKYOS3WPN09JH2/K-Johnson-Construction_1.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180283950-V658GHUKYOS3WPN09JH2/K-Johnson-Construction_1.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180283950-V658GHUKYOS3WPN09JH2/K-Johnson-Construction_1.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180283950-V658GHUKYOS3WPN09JH2/K-Johnson-Construction_1.png?format=2500w
+- Blog Post Title One: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180082657-VPPS6H2VEVZ1A6STKVLV/Tivalent_black.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180082657-VPPS6H2VEVZ1A6STKVLV/Tivalent_black.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180082657-VPPS6H2VEVZ1A6STKVLV/Tivalent_black.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180082657-VPPS6H2VEVZ1A6STKVLV/Tivalent_black.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180082657-VPPS6H2VEVZ1A6STKVLV/Tivalent_black.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180082657-VPPS6H2VEVZ1A6STKVLV/Tivalent_black.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180082657-VPPS6H2VEVZ1A6STKVLV/Tivalent_black.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180082657-VPPS6H2VEVZ1A6STKVLV/Tivalent_black.png?format=2500w
+- Blog Post Title Two: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180135998-3RMUKZQZW9INBDH5LTFJ/Modus_Logoblack_6in.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180135998-3RMUKZQZW9INBDH5LTFJ/Modus_Logoblack_6in.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180135998-3RMUKZQZW9INBDH5LTFJ/Modus_Logoblack_6in.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180135998-3RMUKZQZW9INBDH5LTFJ/Modus_Logoblack_6in.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180135998-3RMUKZQZW9INBDH5LTFJ/Modus_Logoblack_6in.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180135998-3RMUKZQZW9INBDH5LTFJ/Modus_Logoblack_6in.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180135998-3RMUKZQZW9INBDH5LTFJ/Modus_Logoblack_6in.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180135998-3RMUKZQZW9INBDH5LTFJ/Modus_Logoblack_6in.png?format=2500w
+- Blog Post Title Three: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180167188-U9J0ZPLFVWM6P7F87SXV/colonial+homes.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180167188-U9J0ZPLFVWM6P7F87SXV/colonial+homes.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180167188-U9J0ZPLFVWM6P7F87SXV/colonial+homes.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180167188-U9J0ZPLFVWM6P7F87SXV/colonial+homes.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180167188-U9J0ZPLFVWM6P7F87SXV/colonial+homes.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180167188-U9J0ZPLFVWM6P7F87SXV/colonial+homes.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180167188-U9J0ZPLFVWM6P7F87SXV/colonial+homes.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180167188-U9J0ZPLFVWM6P7F87SXV/colonial+homes.png?format=2500w
+- Blog Post Title Four: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180187624-PXH67LW689R74ZGNXOXJ/midwest+mattress+black.PNG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180187624-PXH67LW689R74ZGNXOXJ/midwest+mattress+black.PNG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180187624-PXH67LW689R74ZGNXOXJ/midwest+mattress+black.PNG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180187624-PXH67LW689R74ZGNXOXJ/midwest+mattress+black.PNG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180187624-PXH67LW689R74ZGNXOXJ/midwest+mattress+black.PNG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180187624-PXH67LW689R74ZGNXOXJ/midwest+mattress+black.PNG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180187624-PXH67LW689R74ZGNXOXJ/midwest+mattress+black.PNG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615180187624-PXH67LW689R74ZGNXOXJ/midwest+mattress+black.PNG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=2500w
+- Jackall Creative: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e0677046-a23d-40dc-837e-a16e8493d08a/Jackall+Creative+2025+Wordmark+design_Wordmark+no+tail.png?format=1500w

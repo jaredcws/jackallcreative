@@ -1,0 +1,217 @@
+# History - Rise and Pod - Jackall Creative
+
+Source: https://www.jackallcreative.com/podcasts/tag/History
+
+## Extracted Text
+
+- History - Rise and Pod - Jackall Creative
+- Open Menu
+- Close Menu
+- Open Menu
+- Close Menu
+- Folder:
+- Podcast Episodes You Might Enjoy
+- We love podcasts! We hope you enjoy this curated list.
+- History
+- jared heidemann
+- 7/7/21
+- History
+- jared heidemann
+- 7/7/21
+- World’s Greatest Con
+- How To Fool Hitler
+- “How To Fool Hitler - The Allies have an audacious plan to win WW2. Drop a body with misinformation to hoax Hitler into believing they'll attack the wrong place. The only problem? They have to approve it first.”
+- Read More
+- History
+- jared heidemann
+- 5/19/21
+- History
+- jared heidemann
+- 5/19/21
+- Revisionist History
+- The King of Tears
+- Why country music makes you cry, and rock and roll doesn’t: A musical interpretation of divided America.
+- Read More
+- Story Telling ,
+- History
+- jared heidemann
+- 5/18/21
+- Story Telling ,
+- History
+- jared heidemann
+- 5/18/21
+- Snap Judgment
+- This Is Not a Drill
+- Ballistic missile threat inbound to Hawaii. Seek immediate shelter. A very special presentation of the day the world almost ended.
+- Read More
+- History ,
+- Story Telling
+- jared heidemann
+- 5/9/21
+- History ,
+- Story Telling
+- jared heidemann
+- 5/9/21
+- Wind of Change
+- My Friend Michael
+- The Scorpions’ song “Wind of Change” became the soundtrack to the end of the Cold War. But decades later, New Yorker investigative journalist Patrick Radden Keefe heard a rumor from a trusted source: the Scorpions didn’t write the song. The CIA did.
+- This is episode one of a very compelling series.
+- Read More
+- History
+- jared heidemann
+- 4/28/21
+- History
+- jared heidemann
+- 4/28/21
+- Hardcore History
+- Wrath of the Khans
+- Rarely will I list an episode you have to purchase. Wrath of the Khans is an exception and well worth the $1.99. A preview is included below, but to save yourself some time, just go buy it.
+- Get it here:
+- Hardcore History - Wrath of the Khans
+- Wrath of the Khans
+- Hardcore History
+- Read More
+- Comedy ,
+- History
+- jared heidemann
+- 4/26/21
+- Comedy ,
+- History
+- jared heidemann
+- 4/26/21
+- The Dollop #207 (Live Episode)
+- The Animal Horror of Macquarie Island
+- The Dollop is a podcast hosted since April 2014 by American comedians Dave Anthony and Gareth Reynolds. Each episode centers around an event or person from history selected for its humorousness or peculiarity. Typical episodes feature subjects from American history described by Anthony and commented on by Anthony and Reynolds. (Some Explicit Language)
+- Live from Melbourne, Australia, Comedians Dave Anthony, Gareth Reynolds, and Wil Anderson take a look at the horrific treatment of animals on Macquarie Island.
+- https://allthingscomedy.com/podcasts/207---the-animal-horror-of-macquarie-island
+- Read More
+- History ,
+- Design
+- jared heidemann
+- 4/24/21
+- History ,
+- Design
+- jared heidemann
+- 4/24/21
+- 99% Invisible
+- The Architect of Hollywood
+- “In the golden era of Hollywood of the 1930s, 40s and 50s, the new movie industry titans who flocked to L.A. had an opportunity to construct whatever style houses they wanted. After all, Los Angeles had a lot of open space to develop, and no unifying architectural style. And there was one particular architect who could make any kind of building and make it well: Paul Revere Williams .”
+- https://99percentinvisible.org/episode/the-architect-of-hollywood/
+- Read More
+- Rise and Pod Alerts
+- Sign up with your email address to receive an alert when we drop a recommendation!
+- Email Address
+- Sign Up
+- Thank you!
+- we’d love to work with you!
+
+## Links
+
+- 0: https://www.jackallcreative.com/cart
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Folder: Contact Us: https://www.jackallcreative.com/contacts
+- Back: https://www.jackallcreative.com/
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- History: https://www.jackallcreative.com/podcasts/category/History
+- History: https://www.jackallcreative.com/podcasts/category/History
+- World’s Greatest Con: https://www.jackallcreative.com/podcasts/39
+- Read More: https://www.jackallcreative.com/podcasts/39
+- History: https://www.jackallcreative.com/podcasts/category/History
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Revisionist History: https://www.jackallcreative.com/podcasts/28
+- Read More: https://www.jackallcreative.com/podcasts/28
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Snap Judgment: https://www.jackallcreative.com/podcasts/27
+- Read More: https://www.jackallcreative.com/podcasts/27
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Story Telling: https://www.jackallcreative.com/podcasts/category/Story+Telling
+- Wind of Change: https://www.jackallcreative.com/podcasts/18
+- Read More: https://www.jackallcreative.com/podcasts/18
+- History: https://www.jackallcreative.com/podcasts/category/History
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Hardcore History: https://www.jackallcreative.com/podcasts/12
+- Hardcore History - Wrath of the Khans: https://music.apple.com/album/1099352667
+- Read More: https://www.jackallcreative.com/podcasts/12
+- Comedy: https://www.jackallcreative.com/podcasts/category/Comedy
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Comedy: https://www.jackallcreative.com/podcasts/category/Comedy
+- History: https://www.jackallcreative.com/podcasts/category/History
+- The Dollop #207 (Live Episode): https://www.jackallcreative.com/podcasts/10
+- https://allthingscomedy.com/podcasts/207---the-animal-horror-of-macquarie-island: https://allthingscomedy.com/podcasts/207---the-animal-horror-of-macquarie-island
+- Read More: https://www.jackallcreative.com/podcasts/10
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Design: https://www.jackallcreative.com/podcasts/category/Design
+- History: https://www.jackallcreative.com/podcasts/category/History
+- Design: https://www.jackallcreative.com/podcasts/category/Design
+- 99% Invisible: https://99percentinvisible.org/episode/the-architect-of-hollywood/
+- Paul Revere Williams: http://www.paulrwilliamsproject.org/about/paul-revere-williams-architect/
+- https://99percentinvisible.org/episode/the-architect-of-hollywood/: https://99percentinvisible.org/episode/the-architect-of-hollywood/
+- Read More: https://99percentinvisible.org/episode/the-architect-of-hollywood/
+- Contact Us: mailto:jackallcreative@gmail.com?bcc=jaredheidemann%40gmail.com&=undefined&body=Company%20Name%3A%0AContact%20Name%3A%0AContact%20Email%3A%0APhone%20Number%3A%0A%0ATell%20us%20about%20your%20creative%20needs%3A
+
+## Image Assets
+
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1618890423317-E3Q43NP5BLNPNYYF43TD/Jackall+Creative+White+on+Black-01.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1619307356159-3NX2QPJFTRJXT9YARLYN/image-asset.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=2500w
+- Jackall Creative: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e0677046-a23d-40dc-837e-a16e8493d08a/Jackall+Creative+2025+Wordmark+design_Wordmark+no+tail.png?format=1500w

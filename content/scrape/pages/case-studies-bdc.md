@@ -1,0 +1,232 @@
+# Case Studies - Jackall Creative
+
+Source: https://www.jackallcreative.com/case-studies-bdc
+
+## Extracted Text
+
+- Case Studies - Jackall Creative
+- Open Menu
+- Close Menu
+- Open Menu
+- Close Menu
+- Folder:
+- case study: bdc construction
+- Photography - Projects
+- Photography - Headshots
+- Photography - Event
+- Client Need
+- BDC Construction needed ongoing professional photography to showcase their completed projects, team, and company culture.
+- Our Approach
+- Over the past decade, Jackall Creative has captured high-quality photography of BDC’s completed projects and provided staff headshots to support the company’s promotional needs.
+- Impact on the Client
+- BDC’s marketing materials have remained fresh, engaging, and aligned with their brand, helping them maintain relevance and professionalism in a competitive construction market.
+- work samples
+- View fullsize
+- we’d love to work with you!
+
+## Links
+
+- 0: https://www.jackallcreative.com/cart
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Folder: Contact Us: https://www.jackallcreative.com/contacts
+- Back: https://www.jackallcreative.com/
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Contact Us: mailto:jackallcreative@gmail.com?bcc=jaredheidemann%40gmail.com&=undefined&body=Company%20Name%3A%0AContact%20Name%3A%0AContact%20Email%3A%0APhone%20Number%3A%0A%0ATell%20us%20about%20your%20creative%20needs%3A
+
+## Image Assets
+
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/06b2ef75-9ae4-460d-a5d2-41eb4dc4e3d0/BDC+Color+Headshots+Reduced+%282%29.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/06b2ef75-9ae4-460d-a5d2-41eb4dc4e3d0/BDC+Color+Headshots+Reduced+%282%29.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/06b2ef75-9ae4-460d-a5d2-41eb4dc4e3d0/BDC+Color+Headshots+Reduced+%282%29.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/06b2ef75-9ae4-460d-a5d2-41eb4dc4e3d0/BDC+Color+Headshots+Reduced+%282%29.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/06b2ef75-9ae4-460d-a5d2-41eb4dc4e3d0/BDC+Color+Headshots+Reduced+%282%29.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/06b2ef75-9ae4-460d-a5d2-41eb4dc4e3d0/BDC+Color+Headshots+Reduced+%282%29.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/06b2ef75-9ae4-460d-a5d2-41eb4dc4e3d0/BDC+Color+Headshots+Reduced+%282%29.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/06b2ef75-9ae4-460d-a5d2-41eb4dc4e3d0/BDC+Color+Headshots+Reduced+%282%29.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7665496c-856c-4886-b77e-d038ea143f03/BDC+Color+Headshots+Reduced+%281%29.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7665496c-856c-4886-b77e-d038ea143f03/BDC+Color+Headshots+Reduced+%281%29.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7665496c-856c-4886-b77e-d038ea143f03/BDC+Color+Headshots+Reduced+%281%29.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7665496c-856c-4886-b77e-d038ea143f03/BDC+Color+Headshots+Reduced+%281%29.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7665496c-856c-4886-b77e-d038ea143f03/BDC+Color+Headshots+Reduced+%281%29.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7665496c-856c-4886-b77e-d038ea143f03/BDC+Color+Headshots+Reduced+%281%29.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7665496c-856c-4886-b77e-d038ea143f03/BDC+Color+Headshots+Reduced+%281%29.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7665496c-856c-4886-b77e-d038ea143f03/BDC+Color+Headshots+Reduced+%281%29.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/df0b83eb-4fa2-4bd7-a3ad-64c1aec13559/BDC+Color+Headshots+Reduced+%283%29.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/df0b83eb-4fa2-4bd7-a3ad-64c1aec13559/BDC+Color+Headshots+Reduced+%283%29.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/df0b83eb-4fa2-4bd7-a3ad-64c1aec13559/BDC+Color+Headshots+Reduced+%283%29.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/df0b83eb-4fa2-4bd7-a3ad-64c1aec13559/BDC+Color+Headshots+Reduced+%283%29.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/df0b83eb-4fa2-4bd7-a3ad-64c1aec13559/BDC+Color+Headshots+Reduced+%283%29.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/df0b83eb-4fa2-4bd7-a3ad-64c1aec13559/BDC+Color+Headshots+Reduced+%283%29.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/df0b83eb-4fa2-4bd7-a3ad-64c1aec13559/BDC+Color+Headshots+Reduced+%283%29.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/df0b83eb-4fa2-4bd7-a3ad-64c1aec13559/BDC+Color+Headshots+Reduced+%283%29.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b4f62993-d5f0-4a02-a374-00b82b3e62fd/BDC+Color+Headshots+Reduced+%285%29.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b4f62993-d5f0-4a02-a374-00b82b3e62fd/BDC+Color+Headshots+Reduced+%285%29.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b4f62993-d5f0-4a02-a374-00b82b3e62fd/BDC+Color+Headshots+Reduced+%285%29.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b4f62993-d5f0-4a02-a374-00b82b3e62fd/BDC+Color+Headshots+Reduced+%285%29.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b4f62993-d5f0-4a02-a374-00b82b3e62fd/BDC+Color+Headshots+Reduced+%285%29.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b4f62993-d5f0-4a02-a374-00b82b3e62fd/BDC+Color+Headshots+Reduced+%285%29.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b4f62993-d5f0-4a02-a374-00b82b3e62fd/BDC+Color+Headshots+Reduced+%285%29.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b4f62993-d5f0-4a02-a374-00b82b3e62fd/BDC+Color+Headshots+Reduced+%285%29.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2e32f4a2-b60d-4ffd-86a2-5c43cb2eaae4/BDC_Big_Grove_Reduced+%280%29.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2e32f4a2-b60d-4ffd-86a2-5c43cb2eaae4/BDC_Big_Grove_Reduced+%280%29.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2e32f4a2-b60d-4ffd-86a2-5c43cb2eaae4/BDC_Big_Grove_Reduced+%280%29.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2e32f4a2-b60d-4ffd-86a2-5c43cb2eaae4/BDC_Big_Grove_Reduced+%280%29.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2e32f4a2-b60d-4ffd-86a2-5c43cb2eaae4/BDC_Big_Grove_Reduced+%280%29.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2e32f4a2-b60d-4ffd-86a2-5c43cb2eaae4/BDC_Big_Grove_Reduced+%280%29.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2e32f4a2-b60d-4ffd-86a2-5c43cb2eaae4/BDC_Big_Grove_Reduced+%280%29.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2e32f4a2-b60d-4ffd-86a2-5c43cb2eaae4/BDC_Big_Grove_Reduced+%280%29.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b11ed1a4-9379-4109-8110-bc4ffb1844ff/BDC+Color+Headshots+Reduced+%2831%29.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b11ed1a4-9379-4109-8110-bc4ffb1844ff/BDC+Color+Headshots+Reduced+%2831%29.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b11ed1a4-9379-4109-8110-bc4ffb1844ff/BDC+Color+Headshots+Reduced+%2831%29.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b11ed1a4-9379-4109-8110-bc4ffb1844ff/BDC+Color+Headshots+Reduced+%2831%29.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b11ed1a4-9379-4109-8110-bc4ffb1844ff/BDC+Color+Headshots+Reduced+%2831%29.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b11ed1a4-9379-4109-8110-bc4ffb1844ff/BDC+Color+Headshots+Reduced+%2831%29.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b11ed1a4-9379-4109-8110-bc4ffb1844ff/BDC+Color+Headshots+Reduced+%2831%29.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b11ed1a4-9379-4109-8110-bc4ffb1844ff/BDC+Color+Headshots+Reduced+%2831%29.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/858e6943-8b15-407e-9ac0-dd95a036de27/BDC+Fun+Cowboy+Up+Reduced.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/858e6943-8b15-407e-9ac0-dd95a036de27/BDC+Fun+Cowboy+Up+Reduced.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/858e6943-8b15-407e-9ac0-dd95a036de27/BDC+Fun+Cowboy+Up+Reduced.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/858e6943-8b15-407e-9ac0-dd95a036de27/BDC+Fun+Cowboy+Up+Reduced.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/858e6943-8b15-407e-9ac0-dd95a036de27/BDC+Fun+Cowboy+Up+Reduced.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/858e6943-8b15-407e-9ac0-dd95a036de27/BDC+Fun+Cowboy+Up+Reduced.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/858e6943-8b15-407e-9ac0-dd95a036de27/BDC+Fun+Cowboy+Up+Reduced.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/858e6943-8b15-407e-9ac0-dd95a036de27/BDC+Fun+Cowboy+Up+Reduced.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d3e79b4a-a388-478b-9b25-9737dfeede97/BDC+Color+Headshots+Reduced+%2825%29.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d3e79b4a-a388-478b-9b25-9737dfeede97/BDC+Color+Headshots+Reduced+%2825%29.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d3e79b4a-a388-478b-9b25-9737dfeede97/BDC+Color+Headshots+Reduced+%2825%29.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d3e79b4a-a388-478b-9b25-9737dfeede97/BDC+Color+Headshots+Reduced+%2825%29.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d3e79b4a-a388-478b-9b25-9737dfeede97/BDC+Color+Headshots+Reduced+%2825%29.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d3e79b4a-a388-478b-9b25-9737dfeede97/BDC+Color+Headshots+Reduced+%2825%29.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d3e79b4a-a388-478b-9b25-9737dfeede97/BDC+Color+Headshots+Reduced+%2825%29.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d3e79b4a-a388-478b-9b25-9737dfeede97/BDC+Color+Headshots+Reduced+%2825%29.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/aacbc329-1b07-45d7-bc46-378e37196867/BDC+Color+Headshots+Reduced+%2830%29.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/aacbc329-1b07-45d7-bc46-378e37196867/BDC+Color+Headshots+Reduced+%2830%29.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/aacbc329-1b07-45d7-bc46-378e37196867/BDC+Color+Headshots+Reduced+%2830%29.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/aacbc329-1b07-45d7-bc46-378e37196867/BDC+Color+Headshots+Reduced+%2830%29.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/aacbc329-1b07-45d7-bc46-378e37196867/BDC+Color+Headshots+Reduced+%2830%29.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/aacbc329-1b07-45d7-bc46-378e37196867/BDC+Color+Headshots+Reduced+%2830%29.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/aacbc329-1b07-45d7-bc46-378e37196867/BDC+Color+Headshots+Reduced+%2830%29.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/aacbc329-1b07-45d7-bc46-378e37196867/BDC+Color+Headshots+Reduced+%2830%29.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/34d0d5d3-0417-4954-b280-c37999acbe1d/BDC_Big_Grove_Reduced+%2813%29.jpeg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/34d0d5d3-0417-4954-b280-c37999acbe1d/BDC_Big_Grove_Reduced+%2813%29.jpeg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/34d0d5d3-0417-4954-b280-c37999acbe1d/BDC_Big_Grove_Reduced+%2813%29.jpeg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/34d0d5d3-0417-4954-b280-c37999acbe1d/BDC_Big_Grove_Reduced+%2813%29.jpeg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/34d0d5d3-0417-4954-b280-c37999acbe1d/BDC_Big_Grove_Reduced+%2813%29.jpeg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/34d0d5d3-0417-4954-b280-c37999acbe1d/BDC_Big_Grove_Reduced+%2813%29.jpeg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/34d0d5d3-0417-4954-b280-c37999acbe1d/BDC_Big_Grove_Reduced+%2813%29.jpeg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/34d0d5d3-0417-4954-b280-c37999acbe1d/BDC_Big_Grove_Reduced+%2813%29.jpeg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7a15b642-1da9-495e-9c76-1e88c3c11fce/BDC_Big_Grove_Reduced+%2816%29.jpeg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7a15b642-1da9-495e-9c76-1e88c3c11fce/BDC_Big_Grove_Reduced+%2816%29.jpeg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7a15b642-1da9-495e-9c76-1e88c3c11fce/BDC_Big_Grove_Reduced+%2816%29.jpeg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7a15b642-1da9-495e-9c76-1e88c3c11fce/BDC_Big_Grove_Reduced+%2816%29.jpeg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7a15b642-1da9-495e-9c76-1e88c3c11fce/BDC_Big_Grove_Reduced+%2816%29.jpeg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7a15b642-1da9-495e-9c76-1e88c3c11fce/BDC_Big_Grove_Reduced+%2816%29.jpeg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7a15b642-1da9-495e-9c76-1e88c3c11fce/BDC_Big_Grove_Reduced+%2816%29.jpeg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/7a15b642-1da9-495e-9c76-1e88c3c11fce/BDC_Big_Grove_Reduced+%2816%29.jpeg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/3b5019aa-20c6-48f4-9cb0-0f5486a1afb5/BDC_Big_Grove_Reduced+%287%29.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/3b5019aa-20c6-48f4-9cb0-0f5486a1afb5/BDC_Big_Grove_Reduced+%287%29.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/3b5019aa-20c6-48f4-9cb0-0f5486a1afb5/BDC_Big_Grove_Reduced+%287%29.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/3b5019aa-20c6-48f4-9cb0-0f5486a1afb5/BDC_Big_Grove_Reduced+%287%29.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/3b5019aa-20c6-48f4-9cb0-0f5486a1afb5/BDC_Big_Grove_Reduced+%287%29.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/3b5019aa-20c6-48f4-9cb0-0f5486a1afb5/BDC_Big_Grove_Reduced+%287%29.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/3b5019aa-20c6-48f4-9cb0-0f5486a1afb5/BDC_Big_Grove_Reduced+%287%29.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/3b5019aa-20c6-48f4-9cb0-0f5486a1afb5/BDC_Big_Grove_Reduced+%287%29.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/f32aeac1-39fe-4392-ab04-7b488a9af70f/RISE-IC-IA-003+%281%29.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/f32aeac1-39fe-4392-ab04-7b488a9af70f/RISE-IC-IA-003+%281%29.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/f32aeac1-39fe-4392-ab04-7b488a9af70f/RISE-IC-IA-003+%281%29.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/f32aeac1-39fe-4392-ab04-7b488a9af70f/RISE-IC-IA-003+%281%29.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/f32aeac1-39fe-4392-ab04-7b488a9af70f/RISE-IC-IA-003+%281%29.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/f32aeac1-39fe-4392-ab04-7b488a9af70f/RISE-IC-IA-003+%281%29.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/f32aeac1-39fe-4392-ab04-7b488a9af70f/RISE-IC-IA-003+%281%29.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/f32aeac1-39fe-4392-ab04-7b488a9af70f/RISE-IC-IA-003+%281%29.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/fac0cffa-6fe7-4c64-97e0-28be1dcaec34/RISE-IC-IA-010.jpeg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/fac0cffa-6fe7-4c64-97e0-28be1dcaec34/RISE-IC-IA-010.jpeg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/fac0cffa-6fe7-4c64-97e0-28be1dcaec34/RISE-IC-IA-010.jpeg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/fac0cffa-6fe7-4c64-97e0-28be1dcaec34/RISE-IC-IA-010.jpeg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/fac0cffa-6fe7-4c64-97e0-28be1dcaec34/RISE-IC-IA-010.jpeg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/fac0cffa-6fe7-4c64-97e0-28be1dcaec34/RISE-IC-IA-010.jpeg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/fac0cffa-6fe7-4c64-97e0-28be1dcaec34/RISE-IC-IA-010.jpeg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/fac0cffa-6fe7-4c64-97e0-28be1dcaec34/RISE-IC-IA-010.jpeg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/daff4ab5-8555-49e8-96f9-cadccde72b2d/RISE-IC-IA-029.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/daff4ab5-8555-49e8-96f9-cadccde72b2d/RISE-IC-IA-029.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/daff4ab5-8555-49e8-96f9-cadccde72b2d/RISE-IC-IA-029.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/daff4ab5-8555-49e8-96f9-cadccde72b2d/RISE-IC-IA-029.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/daff4ab5-8555-49e8-96f9-cadccde72b2d/RISE-IC-IA-029.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/daff4ab5-8555-49e8-96f9-cadccde72b2d/RISE-IC-IA-029.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/daff4ab5-8555-49e8-96f9-cadccde72b2d/RISE-IC-IA-029.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/daff4ab5-8555-49e8-96f9-cadccde72b2d/RISE-IC-IA-029.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1e45c3c5-b956-4f18-8736-02987e4e9eb1/RISE-IC-IA-015.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1e45c3c5-b956-4f18-8736-02987e4e9eb1/RISE-IC-IA-015.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1e45c3c5-b956-4f18-8736-02987e4e9eb1/RISE-IC-IA-015.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1e45c3c5-b956-4f18-8736-02987e4e9eb1/RISE-IC-IA-015.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1e45c3c5-b956-4f18-8736-02987e4e9eb1/RISE-IC-IA-015.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1e45c3c5-b956-4f18-8736-02987e4e9eb1/RISE-IC-IA-015.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1e45c3c5-b956-4f18-8736-02987e4e9eb1/RISE-IC-IA-015.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1e45c3c5-b956-4f18-8736-02987e4e9eb1/RISE-IC-IA-015.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6be6fb4c-2c00-478c-8579-1d7f33d3e25b/RISE-IC-IA-047.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6be6fb4c-2c00-478c-8579-1d7f33d3e25b/RISE-IC-IA-047.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6be6fb4c-2c00-478c-8579-1d7f33d3e25b/RISE-IC-IA-047.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6be6fb4c-2c00-478c-8579-1d7f33d3e25b/RISE-IC-IA-047.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6be6fb4c-2c00-478c-8579-1d7f33d3e25b/RISE-IC-IA-047.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6be6fb4c-2c00-478c-8579-1d7f33d3e25b/RISE-IC-IA-047.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6be6fb4c-2c00-478c-8579-1d7f33d3e25b/RISE-IC-IA-047.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6be6fb4c-2c00-478c-8579-1d7f33d3e25b/RISE-IC-IA-047.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=2500w
+- Jackall Creative: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e0677046-a23d-40dc-837e-a16e8493d08a/Jackall+Creative+2025+Wordmark+design_Wordmark+no+tail.png?format=1500w

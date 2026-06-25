@@ -1,0 +1,172 @@
+# Case Studies - Jackall Creative
+
+Source: https://www.jackallcreative.com/case-studies-bs
+
+## Extracted Text
+
+- Case Studies - Jackall Creative
+- Open Menu
+- Close Menu
+- Open Menu
+- Close Menu
+- Folder:
+- case study: bernhardt & smith orthodontics
+- Photography - Headshots
+- Photography - Offices
+- 50th Street
+- Bishop Drive
+- “I would definitely recommend Jackall Creative to other business owners! We have utilized out headshots multiple times, and the photos/videos of our offices are a wonderful additions to our website and social media posts.”
+- Melissa Bernhardt, Owner
+- Client Need
+- Bernhardt & Smith requires updated headshots and location content for online access.
+- Our Approach
+- Jackall Creative delivered a comprehensive visual package that included professional headshots, detailed office photography, and a office video shoots.
+- Impact on the Client
+- Headshots provided the client an updated look to match the visual experience location content also provided.
+- From the Client
+- I would definitely recommend Jackall Creative to other business owners! We have utilized out headshots multiple times, and the photos/videos of our offices are a wonderful additions to our website and social media posts.
+- work samples
+- we’d love to work with you!
+
+## Links
+
+- 0: https://www.jackallcreative.com/cart
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Folder: Contact Us: https://www.jackallcreative.com/contacts
+- Back: https://www.jackallcreative.com/
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Contact Us: mailto:jackallcreative@gmail.com?bcc=jaredheidemann%40gmail.com&=undefined&body=Company%20Name%3A%0AContact%20Name%3A%0AContact%20Email%3A%0APhone%20Number%3A%0A%0ATell%20us%20about%20your%20creative%20needs%3A
+
+## Image Assets
+
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/9f83c504-01af-4452-8273-15ef2b345de5/Melissa+Bernhardt+2024+Headshot+Reduced+Size.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/9f83c504-01af-4452-8273-15ef2b345de5/Melissa+Bernhardt+2024+Headshot+Reduced+Size.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/9f83c504-01af-4452-8273-15ef2b345de5/Melissa+Bernhardt+2024+Headshot+Reduced+Size.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/9f83c504-01af-4452-8273-15ef2b345de5/Melissa+Bernhardt+2024+Headshot+Reduced+Size.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/9f83c504-01af-4452-8273-15ef2b345de5/Melissa+Bernhardt+2024+Headshot+Reduced+Size.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/9f83c504-01af-4452-8273-15ef2b345de5/Melissa+Bernhardt+2024+Headshot+Reduced+Size.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/9f83c504-01af-4452-8273-15ef2b345de5/Melissa+Bernhardt+2024+Headshot+Reduced+Size.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/9f83c504-01af-4452-8273-15ef2b345de5/Melissa+Bernhardt+2024+Headshot+Reduced+Size.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ca432d35-7b67-4e62-863d-6a5ee129d8ca/Blair+Smith+2024+Headshot+Reduced+Size.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ca432d35-7b67-4e62-863d-6a5ee129d8ca/Blair+Smith+2024+Headshot+Reduced+Size.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ca432d35-7b67-4e62-863d-6a5ee129d8ca/Blair+Smith+2024+Headshot+Reduced+Size.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ca432d35-7b67-4e62-863d-6a5ee129d8ca/Blair+Smith+2024+Headshot+Reduced+Size.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ca432d35-7b67-4e62-863d-6a5ee129d8ca/Blair+Smith+2024+Headshot+Reduced+Size.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ca432d35-7b67-4e62-863d-6a5ee129d8ca/Blair+Smith+2024+Headshot+Reduced+Size.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ca432d35-7b67-4e62-863d-6a5ee129d8ca/Blair+Smith+2024+Headshot+Reduced+Size.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ca432d35-7b67-4e62-863d-6a5ee129d8ca/Blair+Smith+2024+Headshot+Reduced+Size.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/a5c5d19f-0b6e-4255-9ea1-0f92f691f8b3/Bernhardt+and+Smith+50th+St+Office+Reduced-4.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/a5c5d19f-0b6e-4255-9ea1-0f92f691f8b3/Bernhardt+and+Smith+50th+St+Office+Reduced-4.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/a5c5d19f-0b6e-4255-9ea1-0f92f691f8b3/Bernhardt+and+Smith+50th+St+Office+Reduced-4.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/a5c5d19f-0b6e-4255-9ea1-0f92f691f8b3/Bernhardt+and+Smith+50th+St+Office+Reduced-4.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/a5c5d19f-0b6e-4255-9ea1-0f92f691f8b3/Bernhardt+and+Smith+50th+St+Office+Reduced-4.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/a5c5d19f-0b6e-4255-9ea1-0f92f691f8b3/Bernhardt+and+Smith+50th+St+Office+Reduced-4.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/a5c5d19f-0b6e-4255-9ea1-0f92f691f8b3/Bernhardt+and+Smith+50th+St+Office+Reduced-4.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/a5c5d19f-0b6e-4255-9ea1-0f92f691f8b3/Bernhardt+and+Smith+50th+St+Office+Reduced-4.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6ed1ddac-1fa3-4d2b-a7ed-e0966519722c/Bernhardt+and+Smith+50th+St+Office+Reduced-9.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6ed1ddac-1fa3-4d2b-a7ed-e0966519722c/Bernhardt+and+Smith+50th+St+Office+Reduced-9.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6ed1ddac-1fa3-4d2b-a7ed-e0966519722c/Bernhardt+and+Smith+50th+St+Office+Reduced-9.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6ed1ddac-1fa3-4d2b-a7ed-e0966519722c/Bernhardt+and+Smith+50th+St+Office+Reduced-9.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6ed1ddac-1fa3-4d2b-a7ed-e0966519722c/Bernhardt+and+Smith+50th+St+Office+Reduced-9.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6ed1ddac-1fa3-4d2b-a7ed-e0966519722c/Bernhardt+and+Smith+50th+St+Office+Reduced-9.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6ed1ddac-1fa3-4d2b-a7ed-e0966519722c/Bernhardt+and+Smith+50th+St+Office+Reduced-9.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6ed1ddac-1fa3-4d2b-a7ed-e0966519722c/Bernhardt+and+Smith+50th+St+Office+Reduced-9.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/46989472-1d19-4585-87a7-4c283370334f/Bernhardt+and+Smith+50th+St+Office+Reduced-2.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/46989472-1d19-4585-87a7-4c283370334f/Bernhardt+and+Smith+50th+St+Office+Reduced-2.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/46989472-1d19-4585-87a7-4c283370334f/Bernhardt+and+Smith+50th+St+Office+Reduced-2.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/46989472-1d19-4585-87a7-4c283370334f/Bernhardt+and+Smith+50th+St+Office+Reduced-2.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/46989472-1d19-4585-87a7-4c283370334f/Bernhardt+and+Smith+50th+St+Office+Reduced-2.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/46989472-1d19-4585-87a7-4c283370334f/Bernhardt+and+Smith+50th+St+Office+Reduced-2.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/46989472-1d19-4585-87a7-4c283370334f/Bernhardt+and+Smith+50th+St+Office+Reduced-2.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/46989472-1d19-4585-87a7-4c283370334f/Bernhardt+and+Smith+50th+St+Office+Reduced-2.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/56f3494b-7bd8-4776-9e2e-755dab5e5537/Bernhardt+and+Smith+50th+St+Office+Reduced-10.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/56f3494b-7bd8-4776-9e2e-755dab5e5537/Bernhardt+and+Smith+50th+St+Office+Reduced-10.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/56f3494b-7bd8-4776-9e2e-755dab5e5537/Bernhardt+and+Smith+50th+St+Office+Reduced-10.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/56f3494b-7bd8-4776-9e2e-755dab5e5537/Bernhardt+and+Smith+50th+St+Office+Reduced-10.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/56f3494b-7bd8-4776-9e2e-755dab5e5537/Bernhardt+and+Smith+50th+St+Office+Reduced-10.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/56f3494b-7bd8-4776-9e2e-755dab5e5537/Bernhardt+and+Smith+50th+St+Office+Reduced-10.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/56f3494b-7bd8-4776-9e2e-755dab5e5537/Bernhardt+and+Smith+50th+St+Office+Reduced-10.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/56f3494b-7bd8-4776-9e2e-755dab5e5537/Bernhardt+and+Smith+50th+St+Office+Reduced-10.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/75e0bd04-b731-4b03-9a5f-01ef86650d38/Bernhardt+and+Smith+50th+St+Office+Reduced-14.JPG
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/75e0bd04-b731-4b03-9a5f-01ef86650d38/Bernhardt+and+Smith+50th+St+Office+Reduced-14.JPG?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/75e0bd04-b731-4b03-9a5f-01ef86650d38/Bernhardt+and+Smith+50th+St+Office+Reduced-14.JPG?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/75e0bd04-b731-4b03-9a5f-01ef86650d38/Bernhardt+and+Smith+50th+St+Office+Reduced-14.JPG?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/75e0bd04-b731-4b03-9a5f-01ef86650d38/Bernhardt+and+Smith+50th+St+Office+Reduced-14.JPG?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/75e0bd04-b731-4b03-9a5f-01ef86650d38/Bernhardt+and+Smith+50th+St+Office+Reduced-14.JPG?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/75e0bd04-b731-4b03-9a5f-01ef86650d38/Bernhardt+and+Smith+50th+St+Office+Reduced-14.JPG?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/75e0bd04-b731-4b03-9a5f-01ef86650d38/Bernhardt+and+Smith+50th+St+Office+Reduced-14.JPG?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b8fdc416-6014-4a1f-975a-33984a744884/Bernhardt+and+Smith+Bishop+Dr+Web-1.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b8fdc416-6014-4a1f-975a-33984a744884/Bernhardt+and+Smith+Bishop+Dr+Web-1.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b8fdc416-6014-4a1f-975a-33984a744884/Bernhardt+and+Smith+Bishop+Dr+Web-1.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b8fdc416-6014-4a1f-975a-33984a744884/Bernhardt+and+Smith+Bishop+Dr+Web-1.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b8fdc416-6014-4a1f-975a-33984a744884/Bernhardt+and+Smith+Bishop+Dr+Web-1.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b8fdc416-6014-4a1f-975a-33984a744884/Bernhardt+and+Smith+Bishop+Dr+Web-1.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b8fdc416-6014-4a1f-975a-33984a744884/Bernhardt+and+Smith+Bishop+Dr+Web-1.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b8fdc416-6014-4a1f-975a-33984a744884/Bernhardt+and+Smith+Bishop+Dr+Web-1.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/4c880368-66f1-4155-85d3-06da52b55582/Bernhardt+and+Smith+Bishop+Dr+Web-2.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/4c880368-66f1-4155-85d3-06da52b55582/Bernhardt+and+Smith+Bishop+Dr+Web-2.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/4c880368-66f1-4155-85d3-06da52b55582/Bernhardt+and+Smith+Bishop+Dr+Web-2.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/4c880368-66f1-4155-85d3-06da52b55582/Bernhardt+and+Smith+Bishop+Dr+Web-2.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/4c880368-66f1-4155-85d3-06da52b55582/Bernhardt+and+Smith+Bishop+Dr+Web-2.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/4c880368-66f1-4155-85d3-06da52b55582/Bernhardt+and+Smith+Bishop+Dr+Web-2.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/4c880368-66f1-4155-85d3-06da52b55582/Bernhardt+and+Smith+Bishop+Dr+Web-2.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/4c880368-66f1-4155-85d3-06da52b55582/Bernhardt+and+Smith+Bishop+Dr+Web-2.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=2500w
+- Jackall Creative: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e0677046-a23d-40dc-837e-a16e8493d08a/Jackall+Creative+2025+Wordmark+design_Wordmark+no+tail.png?format=1500w

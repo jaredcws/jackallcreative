@@ -1,0 +1,146 @@
+# Services - Jackall Creative
+
+Source: https://www.jackallcreative.com/services
+
+## Extracted Text
+
+- Services - Jackall Creative
+- Open Menu
+- Close Menu
+- Open Menu
+- Close Menu
+- Folder:
+- Telling your story,
+- one frame at a time.
+- With experience from the construction industry to professional headshots for your firm, we cover it all!
+- Architecture | Brand Identity | Commercial Real Estate | Construction In Progress and Transformation | Custom Portraits | Professional Headshots | Local Business Branding Product | Real Estate
+- Full Photography Portfolio
+- Video in all forms.
+- Are you looking for a more in-depth option that tells your story? That’s great! We do that too! Check out this video made for MODUS.
+- Or perhaps you’re looking for something more in-depth that launches your YouTube channel correctly? Check out our work with Electrical Installations of Iowa for another great example!
+- Company Profile | YouTube Channels | Footage Acquisition | Interviews | B Roll Library Development | Social Media Use Cases | Sound Editing
+- Marketing Services.
+- From proposal development, social media production, and more. Jackall Creative provides a variety of marketing services to clients.
+- Branding | Business Card Development | Custom Print Media | Proposals | Google Analytics | Social Media
+- Websites.
+- Your other location.
+- With the evolution of the internet, a company website is a must. It serves as your customer’s ultimate open location and information hub. But all too often we find that our client’s have missed the sweet spot in website execution. Some clients have become prey to overzealous designers who overcomplicate what is actually needed these days. Other clients are on their way but haven’t quite hit the mark yet.
+- It’s our job to help you find your website’s sweet spot based on your specific market and enable you to avoid falling into an industry pitfall along the way! Have questions? Shoot us an email!
+- Here are a few client examples:
+- Client 1 | Client 2 | Client 3
+- jackall donates services program
+- Small and medium-sized businesses have experienced an overwhelming number of obstacles in recent years. Our JDS (Jackall Donates Services) program offers businesses select donated services. It is our goal to do our part in enabling the businesses that make our community great.
+- To apply for these support services, complete the form below.
+- JDS Application
+- Complete the application below to throw your metaphorical hat into the JDS program!
+- we’d love to work with you!
+
+## Links
+
+- 0: https://www.jackallcreative.com/cart
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Folder: Contact Us: https://www.jackallcreative.com/contacts
+- Back: https://www.jackallcreative.com/
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Full Photography Portfolio: https://www.jackallcreative.com/photos
+- https://www.youtube.com/@EIofIowa
+- Shoot us an email!: mailto:jackallcreative@gmail.com
+- Client 1: https://www.modus-eng.com/
+- Client 2: https://www.blackbirdinvest.com/
+- Client 3: https://kjohnsonconstruction.com/
+- Contact Us: mailto:jackallcreative@gmail.com?bcc=jaredheidemann%40gmail.com&=undefined&body=Company%20Name%3A%0AContact%20Name%3A%0AContact%20Email%3A%0APhone%20Number%3A%0A%0ATell%20us%20about%20your%20creative%20needs%3A
+
+## Image Assets
+
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ccc3bcc4-6a9d-4c2b-a712-d0a2e1c8eb5f/image-asset.jpeg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ccc3bcc4-6a9d-4c2b-a712-d0a2e1c8eb5f/image-asset.jpeg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ccc3bcc4-6a9d-4c2b-a712-d0a2e1c8eb5f/image-asset.jpeg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ccc3bcc4-6a9d-4c2b-a712-d0a2e1c8eb5f/image-asset.jpeg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ccc3bcc4-6a9d-4c2b-a712-d0a2e1c8eb5f/image-asset.jpeg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ccc3bcc4-6a9d-4c2b-a712-d0a2e1c8eb5f/image-asset.jpeg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ccc3bcc4-6a9d-4c2b-a712-d0a2e1c8eb5f/image-asset.jpeg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ccc3bcc4-6a9d-4c2b-a712-d0a2e1c8eb5f/image-asset.jpeg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/18ac25fa-59bb-4fa3-9772-9cafc8d65bc8/2025+jackall+patterns_black-03.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/18ac25fa-59bb-4fa3-9772-9cafc8d65bc8/2025+jackall+patterns_black-03.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/18ac25fa-59bb-4fa3-9772-9cafc8d65bc8/2025+jackall+patterns_black-03.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/18ac25fa-59bb-4fa3-9772-9cafc8d65bc8/2025+jackall+patterns_black-03.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/18ac25fa-59bb-4fa3-9772-9cafc8d65bc8/2025+jackall+patterns_black-03.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/18ac25fa-59bb-4fa3-9772-9cafc8d65bc8/2025+jackall+patterns_black-03.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/18ac25fa-59bb-4fa3-9772-9cafc8d65bc8/2025+jackall+patterns_black-03.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/18ac25fa-59bb-4fa3-9772-9cafc8d65bc8/2025+jackall+patterns_black-03.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589849189154-90WSI722LNMGO75GG191/Aro+Ha_0393.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6e961715-0b6a-44db-93b9-1682493ee640/image-asset.jpeg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6e961715-0b6a-44db-93b9-1682493ee640/image-asset.jpeg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6e961715-0b6a-44db-93b9-1682493ee640/image-asset.jpeg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6e961715-0b6a-44db-93b9-1682493ee640/image-asset.jpeg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6e961715-0b6a-44db-93b9-1682493ee640/image-asset.jpeg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6e961715-0b6a-44db-93b9-1682493ee640/image-asset.jpeg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6e961715-0b6a-44db-93b9-1682493ee640/image-asset.jpeg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6e961715-0b6a-44db-93b9-1682493ee640/image-asset.jpeg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615237345959-3AGXMS0LBJXEB8LR42DD/image-asset.jpeg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615237345959-3AGXMS0LBJXEB8LR42DD/image-asset.jpeg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615237345959-3AGXMS0LBJXEB8LR42DD/image-asset.jpeg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615237345959-3AGXMS0LBJXEB8LR42DD/image-asset.jpeg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615237345959-3AGXMS0LBJXEB8LR42DD/image-asset.jpeg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615237345959-3AGXMS0LBJXEB8LR42DD/image-asset.jpeg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615237345959-3AGXMS0LBJXEB8LR42DD/image-asset.jpeg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615237345959-3AGXMS0LBJXEB8LR42DD/image-asset.jpeg?format=2500w
+- websites.jpg: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615218670740-YQQW0TRT8YBL2IFGNPSZ/websites.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615218670740-YQQW0TRT8YBL2IFGNPSZ/websites.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615218670740-YQQW0TRT8YBL2IFGNPSZ/websites.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615218670740-YQQW0TRT8YBL2IFGNPSZ/websites.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615218670740-YQQW0TRT8YBL2IFGNPSZ/websites.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615218670740-YQQW0TRT8YBL2IFGNPSZ/websites.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615218670740-YQQW0TRT8YBL2IFGNPSZ/websites.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/1615218670740-YQQW0TRT8YBL2IFGNPSZ/websites.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/15afbf48-4cc2-45d9-a01e-c9abdc67b84b/JHA_7660.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/15afbf48-4cc2-45d9-a01e-c9abdc67b84b/JHA_7660.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/15afbf48-4cc2-45d9-a01e-c9abdc67b84b/JHA_7660.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/15afbf48-4cc2-45d9-a01e-c9abdc67b84b/JHA_7660.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/15afbf48-4cc2-45d9-a01e-c9abdc67b84b/JHA_7660.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/15afbf48-4cc2-45d9-a01e-c9abdc67b84b/JHA_7660.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/15afbf48-4cc2-45d9-a01e-c9abdc67b84b/JHA_7660.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/15afbf48-4cc2-45d9-a01e-c9abdc67b84b/JHA_7660.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=2500w
+- Jackall Creative: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e0677046-a23d-40dc-837e-a16e8493d08a/Jackall+Creative+2025+Wordmark+design_Wordmark+no+tail.png?format=1500w

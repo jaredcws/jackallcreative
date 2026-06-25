@@ -1,0 +1,244 @@
+# Case Studies - Jackall Creative
+
+Source: https://www.jackallcreative.com/case-studies-apregrem
+
+## Extracted Text
+
+- Case Studies - Jackall Creative
+- Open Menu
+- Close Menu
+- Open Menu
+- Close Menu
+- Folder:
+- case study: apregem
+- Branding
+- Document Design
+- “ The branding Jackall Creative developed has already helped my company stand out in a saturated market. Where many contractors rely on generic designs, my branding feels intentional and unique. It’s something I’m proud to put on everything—uniforms, signage, vehicles—and it’s strengthened how my business is perceived. ”
+- David Dominguez, Owner
+- Client Need
+- As a new entity, Apregem needed a complete brand identity to establish its market presence.
+- Our Approach
+- Jackall Creative developed Apregem’s brand identity from the ground up—including logo design, brand colors, and a cohesive visual language that would guide all future marketing efforts. The logo features thoughtful symbolism tailored to the client’s values and mission: a pillar representing strength and stability, and the use of “Con”—a nod to both construction and the Spanish word for “with,” reflecting the firm’s roots and commitment to working collaboratively with every client.
+- Impact on the Client
+- Apregem emerged with a unique and professional brand identity that helped them stand out in their industry and connect with target audiences confidently.
+- From the Client
+- Working with Jared and Jackall Creative was a seamless and enjoyable experience. I came to the project with only a few high-level ideas, and Jared quickly translated them into a strong, polished brand concept. The first draft of the logo was nearly perfect—just one small revision—and the final result far exceeded what I had envisioned. Communication was clear, efficient, and most importantly, comfortable. Jared felt like part of my team and made my goals his own, asking the right questions to truly understand me and my business.
+- The branding Jackall Creative developed has already helped my company stand out in a saturated market. Where many contractors rely on generic designs, my branding feels intentional and unique. It’s something I’m proud to put on everything—uniforms, signage, vehicles—and it’s strengthened how my business is perceived. I was initially intimidated by the idea of building a brand from scratch, but Jared made it feel like hitting the “easy button.” He took the time to understand my business and made sure every step felt personal and stress-free. The final product was completed ahead of schedule, required almost no revisions, and absolutely nailed the vision. Jackall Creative is now my go-to for all creative needs.
+- David Dominguez, Owner
+- work samples
+- we’d love to work with you!
+
+## Links
+
+- 0: https://www.jackallcreative.com/cart
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- https://www.jackallcreative.com/
+- https://www.jackallcreative.com/
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Home: https://www.jackallcreative.com/
+- Our Blog: https://www.jackallcreative.com/blog
+- Our Work: https://www.jackallcreative.com/our-work
+- Photography: https://www.jackallcreative.com/photos
+- Services: https://www.jackallcreative.com/services
+- Work With Us: https://www.jackallcreative.com/work-with-us
+- Folder: Contact Us: https://www.jackallcreative.com/contacts
+- Back: https://www.jackallcreative.com/
+- Contact: https://www.jackallcreative.com/contact
+- Client Portal: https://www.jackallcreative.com/client-submission-portal
+- Contact Us: mailto:jackallcreative@gmail.com?bcc=jaredheidemann%40gmail.com&=undefined&body=Company%20Name%3A%0AContact%20Name%3A%0AContact%20Email%3A%0APhone%20Number%3A%0A%0ATell%20us%20about%20your%20creative%20needs%3A
+
+## Image Assets
+
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/93780ad5-1c26-4dde-b7bb-0bbfeacca744/2025+jackall+patterns-11.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4502f38-16e7-40fc-b786-8d3adfb20a30/ddominguez.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4502f38-16e7-40fc-b786-8d3adfb20a30/ddominguez.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4502f38-16e7-40fc-b786-8d3adfb20a30/ddominguez.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4502f38-16e7-40fc-b786-8d3adfb20a30/ddominguez.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4502f38-16e7-40fc-b786-8d3adfb20a30/ddominguez.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4502f38-16e7-40fc-b786-8d3adfb20a30/ddominguez.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4502f38-16e7-40fc-b786-8d3adfb20a30/ddominguez.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4502f38-16e7-40fc-b786-8d3adfb20a30/ddominguez.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e67718d8-a181-4509-979d-f5955c33c267/2025+jackall+pattern+transparent_black-05.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4d42704-955c-47b5-871b-1d3cf232bf75/Apregrem_Mockup_2.jpg
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4d42704-955c-47b5-871b-1d3cf232bf75/Apregrem_Mockup_2.jpg?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4d42704-955c-47b5-871b-1d3cf232bf75/Apregrem_Mockup_2.jpg?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4d42704-955c-47b5-871b-1d3cf232bf75/Apregrem_Mockup_2.jpg?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4d42704-955c-47b5-871b-1d3cf232bf75/Apregrem_Mockup_2.jpg?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4d42704-955c-47b5-871b-1d3cf232bf75/Apregrem_Mockup_2.jpg?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4d42704-955c-47b5-871b-1d3cf232bf75/Apregrem_Mockup_2.jpg?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e4d42704-955c-47b5-871b-1d3cf232bf75/Apregrem_Mockup_2.jpg?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d30f89b7-6328-4e9b-ad8f-8ae9f1df02f7/Apregem+Wordmark+White%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d30f89b7-6328-4e9b-ad8f-8ae9f1df02f7/Apregem+Wordmark+White%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d30f89b7-6328-4e9b-ad8f-8ae9f1df02f7/Apregem+Wordmark+White%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d30f89b7-6328-4e9b-ad8f-8ae9f1df02f7/Apregem+Wordmark+White%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d30f89b7-6328-4e9b-ad8f-8ae9f1df02f7/Apregem+Wordmark+White%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d30f89b7-6328-4e9b-ad8f-8ae9f1df02f7/Apregem+Wordmark+White%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d30f89b7-6328-4e9b-ad8f-8ae9f1df02f7/Apregem+Wordmark+White%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/d30f89b7-6328-4e9b-ad8f-8ae9f1df02f7/Apregem+Wordmark+White%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/712267fb-a3df-48c5-9bfd-4d79aaf03aaa/Apregem+Wordmark+White+Goldback%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/712267fb-a3df-48c5-9bfd-4d79aaf03aaa/Apregem+Wordmark+White+Goldback%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/712267fb-a3df-48c5-9bfd-4d79aaf03aaa/Apregem+Wordmark+White+Goldback%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/712267fb-a3df-48c5-9bfd-4d79aaf03aaa/Apregem+Wordmark+White+Goldback%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/712267fb-a3df-48c5-9bfd-4d79aaf03aaa/Apregem+Wordmark+White+Goldback%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/712267fb-a3df-48c5-9bfd-4d79aaf03aaa/Apregem+Wordmark+White+Goldback%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/712267fb-a3df-48c5-9bfd-4d79aaf03aaa/Apregem+Wordmark+White+Goldback%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/712267fb-a3df-48c5-9bfd-4d79aaf03aaa/Apregem+Wordmark+White+Goldback%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/bf0b6cb2-4c2f-4054-93d5-c62ec5207e17/Apregem+Wordmark+Purple%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/bf0b6cb2-4c2f-4054-93d5-c62ec5207e17/Apregem+Wordmark+Purple%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/bf0b6cb2-4c2f-4054-93d5-c62ec5207e17/Apregem+Wordmark+Purple%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/bf0b6cb2-4c2f-4054-93d5-c62ec5207e17/Apregem+Wordmark+Purple%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/bf0b6cb2-4c2f-4054-93d5-c62ec5207e17/Apregem+Wordmark+Purple%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/bf0b6cb2-4c2f-4054-93d5-c62ec5207e17/Apregem+Wordmark+Purple%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/bf0b6cb2-4c2f-4054-93d5-c62ec5207e17/Apregem+Wordmark+Purple%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/bf0b6cb2-4c2f-4054-93d5-c62ec5207e17/Apregem+Wordmark+Purple%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/44810524-168d-40e7-bf82-89ac0592f5e1/Apregem+Wordmark+Gold%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/44810524-168d-40e7-bf82-89ac0592f5e1/Apregem+Wordmark+Gold%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/44810524-168d-40e7-bf82-89ac0592f5e1/Apregem+Wordmark+Gold%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/44810524-168d-40e7-bf82-89ac0592f5e1/Apregem+Wordmark+Gold%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/44810524-168d-40e7-bf82-89ac0592f5e1/Apregem+Wordmark+Gold%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/44810524-168d-40e7-bf82-89ac0592f5e1/Apregem+Wordmark+Gold%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/44810524-168d-40e7-bf82-89ac0592f5e1/Apregem+Wordmark+Gold%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/44810524-168d-40e7-bf82-89ac0592f5e1/Apregem+Wordmark+Gold%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2cf366a4-f3ff-4204-83c1-44d7861da406/Apregem+Icon+Mark+Purple+No+Con%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2cf366a4-f3ff-4204-83c1-44d7861da406/Apregem+Icon+Mark+Purple+No+Con%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2cf366a4-f3ff-4204-83c1-44d7861da406/Apregem+Icon+Mark+Purple+No+Con%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2cf366a4-f3ff-4204-83c1-44d7861da406/Apregem+Icon+Mark+Purple+No+Con%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2cf366a4-f3ff-4204-83c1-44d7861da406/Apregem+Icon+Mark+Purple+No+Con%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2cf366a4-f3ff-4204-83c1-44d7861da406/Apregem+Icon+Mark+Purple+No+Con%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2cf366a4-f3ff-4204-83c1-44d7861da406/Apregem+Icon+Mark+Purple+No+Con%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/2cf366a4-f3ff-4204-83c1-44d7861da406/Apregem+Icon+Mark+Purple+No+Con%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ed82f763-822d-4c14-a27d-a96de6464ffd/Apregem+Icon+Mark+Gold+No+Con%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ed82f763-822d-4c14-a27d-a96de6464ffd/Apregem+Icon+Mark+Gold+No+Con%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ed82f763-822d-4c14-a27d-a96de6464ffd/Apregem+Icon+Mark+Gold+No+Con%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ed82f763-822d-4c14-a27d-a96de6464ffd/Apregem+Icon+Mark+Gold+No+Con%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ed82f763-822d-4c14-a27d-a96de6464ffd/Apregem+Icon+Mark+Gold+No+Con%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ed82f763-822d-4c14-a27d-a96de6464ffd/Apregem+Icon+Mark+Gold+No+Con%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ed82f763-822d-4c14-a27d-a96de6464ffd/Apregem+Icon+Mark+Gold+No+Con%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/ed82f763-822d-4c14-a27d-a96de6464ffd/Apregem+Icon+Mark+Gold+No+Con%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c23c83f1-d46f-40b0-98eb-2220945ebcb8/Apregem+Letter+Mark+White+Purpleback%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c23c83f1-d46f-40b0-98eb-2220945ebcb8/Apregem+Letter+Mark+White+Purpleback%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c23c83f1-d46f-40b0-98eb-2220945ebcb8/Apregem+Letter+Mark+White+Purpleback%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c23c83f1-d46f-40b0-98eb-2220945ebcb8/Apregem+Letter+Mark+White+Purpleback%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c23c83f1-d46f-40b0-98eb-2220945ebcb8/Apregem+Letter+Mark+White+Purpleback%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c23c83f1-d46f-40b0-98eb-2220945ebcb8/Apregem+Letter+Mark+White+Purpleback%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c23c83f1-d46f-40b0-98eb-2220945ebcb8/Apregem+Letter+Mark+White+Purpleback%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c23c83f1-d46f-40b0-98eb-2220945ebcb8/Apregem+Letter+Mark+White+Purpleback%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/992cd783-6cda-49d3-aba6-c0e329b0368b/Apregem+Letter+Mark+White+Goldback%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/992cd783-6cda-49d3-aba6-c0e329b0368b/Apregem+Letter+Mark+White+Goldback%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/992cd783-6cda-49d3-aba6-c0e329b0368b/Apregem+Letter+Mark+White+Goldback%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/992cd783-6cda-49d3-aba6-c0e329b0368b/Apregem+Letter+Mark+White+Goldback%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/992cd783-6cda-49d3-aba6-c0e329b0368b/Apregem+Letter+Mark+White+Goldback%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/992cd783-6cda-49d3-aba6-c0e329b0368b/Apregem+Letter+Mark+White+Goldback%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/992cd783-6cda-49d3-aba6-c0e329b0368b/Apregem+Letter+Mark+White+Goldback%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/992cd783-6cda-49d3-aba6-c0e329b0368b/Apregem+Letter+Mark+White+Goldback%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/45ec348e-ff69-4f92-af42-cdf9d88ef423/Apregem+Icon+Mark+Gray+No+Con%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/45ec348e-ff69-4f92-af42-cdf9d88ef423/Apregem+Icon+Mark+Gray+No+Con%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/45ec348e-ff69-4f92-af42-cdf9d88ef423/Apregem+Icon+Mark+Gray+No+Con%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/45ec348e-ff69-4f92-af42-cdf9d88ef423/Apregem+Icon+Mark+Gray+No+Con%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/45ec348e-ff69-4f92-af42-cdf9d88ef423/Apregem+Icon+Mark+Gray+No+Con%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/45ec348e-ff69-4f92-af42-cdf9d88ef423/Apregem+Icon+Mark+Gray+No+Con%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/45ec348e-ff69-4f92-af42-cdf9d88ef423/Apregem+Icon+Mark+Gray+No+Con%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/45ec348e-ff69-4f92-af42-cdf9d88ef423/Apregem+Icon+Mark+Gray+No+Con%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/05ea72d0-e460-4498-a269-f14e1ac32fea/Apregem+Icon+Mark+Green+No+Con%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/05ea72d0-e460-4498-a269-f14e1ac32fea/Apregem+Icon+Mark+Green+No+Con%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/05ea72d0-e460-4498-a269-f14e1ac32fea/Apregem+Icon+Mark+Green+No+Con%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/05ea72d0-e460-4498-a269-f14e1ac32fea/Apregem+Icon+Mark+Green+No+Con%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/05ea72d0-e460-4498-a269-f14e1ac32fea/Apregem+Icon+Mark+Green+No+Con%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/05ea72d0-e460-4498-a269-f14e1ac32fea/Apregem+Icon+Mark+Green+No+Con%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/05ea72d0-e460-4498-a269-f14e1ac32fea/Apregem+Icon+Mark+Green+No+Con%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/05ea72d0-e460-4498-a269-f14e1ac32fea/Apregem+Icon+Mark+Green+No+Con%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88ab1ea7-243f-479a-b24d-2ec44682264f/apregem-02.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88ab1ea7-243f-479a-b24d-2ec44682264f/apregem-02.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88ab1ea7-243f-479a-b24d-2ec44682264f/apregem-02.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88ab1ea7-243f-479a-b24d-2ec44682264f/apregem-02.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88ab1ea7-243f-479a-b24d-2ec44682264f/apregem-02.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88ab1ea7-243f-479a-b24d-2ec44682264f/apregem-02.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88ab1ea7-243f-479a-b24d-2ec44682264f/apregem-02.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88ab1ea7-243f-479a-b24d-2ec44682264f/apregem-02.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c509ef2b-e2f6-4e6e-879c-5581e61ac31f/apregem-04.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c509ef2b-e2f6-4e6e-879c-5581e61ac31f/apregem-04.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c509ef2b-e2f6-4e6e-879c-5581e61ac31f/apregem-04.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c509ef2b-e2f6-4e6e-879c-5581e61ac31f/apregem-04.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c509ef2b-e2f6-4e6e-879c-5581e61ac31f/apregem-04.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c509ef2b-e2f6-4e6e-879c-5581e61ac31f/apregem-04.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c509ef2b-e2f6-4e6e-879c-5581e61ac31f/apregem-04.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/c509ef2b-e2f6-4e6e-879c-5581e61ac31f/apregem-04.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/65653fd0-6e26-4512-bc1d-ac56ab52e18d/apregem-05.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/65653fd0-6e26-4512-bc1d-ac56ab52e18d/apregem-05.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/65653fd0-6e26-4512-bc1d-ac56ab52e18d/apregem-05.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/65653fd0-6e26-4512-bc1d-ac56ab52e18d/apregem-05.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/65653fd0-6e26-4512-bc1d-ac56ab52e18d/apregem-05.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/65653fd0-6e26-4512-bc1d-ac56ab52e18d/apregem-05.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/65653fd0-6e26-4512-bc1d-ac56ab52e18d/apregem-05.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/65653fd0-6e26-4512-bc1d-ac56ab52e18d/apregem-05.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6240d3d2-c17d-4983-9e7c-98f49c4e6906/apregem-03.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6240d3d2-c17d-4983-9e7c-98f49c4e6906/apregem-03.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6240d3d2-c17d-4983-9e7c-98f49c4e6906/apregem-03.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6240d3d2-c17d-4983-9e7c-98f49c4e6906/apregem-03.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6240d3d2-c17d-4983-9e7c-98f49c4e6906/apregem-03.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6240d3d2-c17d-4983-9e7c-98f49c4e6906/apregem-03.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6240d3d2-c17d-4983-9e7c-98f49c4e6906/apregem-03.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/6240d3d2-c17d-4983-9e7c-98f49c4e6906/apregem-03.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b145587f-163b-49c8-a12c-5c52bb5deec4/Apregem+Letter+Mark+White+Grayback%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b145587f-163b-49c8-a12c-5c52bb5deec4/Apregem+Letter+Mark+White+Grayback%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b145587f-163b-49c8-a12c-5c52bb5deec4/Apregem+Letter+Mark+White+Grayback%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b145587f-163b-49c8-a12c-5c52bb5deec4/Apregem+Letter+Mark+White+Grayback%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b145587f-163b-49c8-a12c-5c52bb5deec4/Apregem+Letter+Mark+White+Grayback%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b145587f-163b-49c8-a12c-5c52bb5deec4/Apregem+Letter+Mark+White+Grayback%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b145587f-163b-49c8-a12c-5c52bb5deec4/Apregem+Letter+Mark+White+Grayback%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/b145587f-163b-49c8-a12c-5c52bb5deec4/Apregem+Letter+Mark+White+Grayback%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/43b60958-0709-4aaf-87b8-f724ae2399d6/Apregem+Letter+Mark+White+Greenback%404x.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/43b60958-0709-4aaf-87b8-f724ae2399d6/Apregem+Letter+Mark+White+Greenback%404x.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/43b60958-0709-4aaf-87b8-f724ae2399d6/Apregem+Letter+Mark+White+Greenback%404x.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/43b60958-0709-4aaf-87b8-f724ae2399d6/Apregem+Letter+Mark+White+Greenback%404x.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/43b60958-0709-4aaf-87b8-f724ae2399d6/Apregem+Letter+Mark+White+Greenback%404x.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/43b60958-0709-4aaf-87b8-f724ae2399d6/Apregem+Letter+Mark+White+Greenback%404x.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/43b60958-0709-4aaf-87b8-f724ae2399d6/Apregem+Letter+Mark+White+Greenback%404x.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/43b60958-0709-4aaf-87b8-f724ae2399d6/Apregem+Letter+Mark+White+Greenback%404x.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88914948-848b-4e36-aa6e-00a3dace2cc8/jackall+creative+standard+logo+head+and+body-06.png?format=2500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=100w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=300w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=750w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1000w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=1500w
+- https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/88d7d7cc-3a5d-45f4-b804-7eed2880587b/Jackall+Creative+2025+Wordmark+design_White+Wordmark+no+tail.png?format=2500w
+- Jackall Creative: https://images.squarespace-cdn.com/content/v1/6043c607f6dd7f368d39e0d5/e0677046-a23d-40dc-837e-a16e8493d08a/Jackall+Creative+2025+Wordmark+design_Wordmark+no+tail.png?format=1500w

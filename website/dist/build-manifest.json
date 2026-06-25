@@ -1,0 +1,156 @@
+{
+  "files": [
+    {
+      "path": "ai-consulting.html",
+      "bytes": 7670
+    },
+    {
+      "path": "assets/css/styles.css",
+      "bytes": 12784
+    },
+    {
+      "path": "assets/img/brand/jackall-creative-wordmark-black.png",
+      "bytes": 64169
+    },
+    {
+      "path": "assets/img/brand/jackall-creative-wordmark-white.png",
+      "bytes": 59635
+    },
+    {
+      "path": "assets/img/brand/jackall-mark-black.png",
+      "bytes": 73413
+    },
+    {
+      "path": "assets/img/brand/jackall-mark-blue.png",
+      "bytes": 73680
+    },
+    {
+      "path": "assets/img/brand/jackall-paw-blue.png",
+      "bytes": 69427
+    },
+    {
+      "path": "assets/img/brand/jackall-script-yellow.png",
+      "bytes": 62906
+    },
+    {
+      "path": "assets/img/brand/jackall-wordmark-black.png",
+      "bytes": 76854
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-01.jpg",
+      "bytes": 419578
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-02.png",
+      "bytes": 454948
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-03.png",
+      "bytes": 67504
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-04.jpg",
+      "bytes": 1082346
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-05.jpeg",
+      "bytes": 104910
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-06.png",
+      "bytes": 1115586
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-07.jpeg",
+      "bytes": 421330
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-08.jpg",
+      "bytes": 202916
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-09.jpg",
+      "bytes": 405108
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-10.png",
+      "bytes": 1334456
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-11.png",
+      "bytes": 960576
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-12.png",
+      "bytes": 340222
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-13.png",
+      "bytes": 212758
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-14.png",
+      "bytes": 445148
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-15.png",
+      "bytes": 1503916
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-16.png",
+      "bytes": 196306
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-17.png",
+      "bytes": 1709634
+    },
+    {
+      "path": "assets/img/portfolio/portfolio-18.png",
+      "bytes": 1148354
+    },
+    {
+      "path": "assets/js/main.js",
+      "bytes": 1262
+    },
+    {
+      "path": "build-manifest.json",
+      "bytes": 3199
+    },
+    {
+      "path": "contact.html",
+      "bytes": 7260
+    },
+    {
+      "path": "creative-services.html",
+      "bytes": 7750
+    },
+    {
+      "path": "index.html",
+      "bytes": 11037
+    },
+    {
+      "path": "resources.html",
+      "bytes": 5650
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 77
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 527
+    },
+    {
+      "path": "work.html",
+      "bytes": 7153
+    },
+    {
+      "path": "_headers",
+      "bytes": 245
+    },
+    {
+      "path": "_redirects",
+      "bytes": 157
+    }
+  ]
+}
