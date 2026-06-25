@@ -10,6 +10,7 @@ const staticEntries = [
   "creative-services.html",
   "work.html",
   "resources.html",
+  "game.html",
   "contact.html",
   "assets",
   "_headers",

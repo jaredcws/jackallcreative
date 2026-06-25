@@ -2,11 +2,11 @@
   "files": [
     {
       "path": "ai-consulting.html",
-      "bytes": 7750
+      "bytes": 7815
     },
     {
       "path": "assets/css/styles.css",
-      "bytes": 39620
+      "bytes": 64417
     },
     {
       "path": "assets/fonts/Geist-LICENSE.txt",
@@ -130,23 +130,27 @@
     },
     {
       "path": "assets/js/main.js",
-      "bytes": 9546
+      "bytes": 28193
     },
     {
       "path": "contact.html",
-      "bytes": 8466
+      "bytes": 8531
     },
     {
       "path": "creative-services.html",
-      "bytes": 7830
+      "bytes": 7895
+    },
+    {
+      "path": "game.html",
+      "bytes": 4032
     },
     {
       "path": "index.html",
-      "bytes": 16940
+      "bytes": 14180
     },
     {
       "path": "resources.html",
-      "bytes": 5730
+      "bytes": 5795
     },
     {
       "path": "robots.txt",
@@ -154,11 +158,11 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 527
+      "bytes": 593
     },
     {
       "path": "work.html",
-      "bytes": 7233
+      "bytes": 7298
     },
     {
       "path": "_headers",

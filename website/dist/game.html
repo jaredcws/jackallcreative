@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>8-Bit Jackall Runner | Jackall Creative</title>
+  <meta name="description" content="Play the 8-bit Jackall Creative runner game. Jump over obstacles, duck under flying objects, and chase a high score.">
+  <link rel="icon" href="assets/img/brand/jackall-mark-blue.png">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body class="future-home game-page">
+  <header class="site-header">
+    <div class="scroll-progress" data-scroll-progress aria-hidden="true"></div>
+    <nav class="nav" aria-label="Main navigation">
+      <a class="brand" href="index.html" aria-label="Jackall Creative home">
+        <img src="assets/img/brand/jackall-creative-wordmark-black.png" alt="Jackall Creative">
+      </a>
+      <button class="nav-toggle" type="button" aria-label="Open navigation" aria-expanded="false" data-nav-toggle>
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links" data-nav-links>
+        <a href="ai-consulting.html">AI Consulting</a>
+        <a href="creative-services.html">Creative Services</a>
+        <a href="work.html">Work</a>
+        <a href="resources.html">Resources</a>
+        <a href="game.html" aria-current="page">Play</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="game-hero">
+      <canvas class="neural-canvas" data-neural-canvas aria-hidden="true"></canvas>
+      <div class="future-container game-shell">
+        <div class="game-copy" data-reveal>
+          <p class="future-pill"><span></span>8-bit brand side quest</p>
+          <h1>Jackall Runner</h1>
+          <p class="future-lede">Jump over bad prompts, duck under platform fees, and keep the AI creative system moving.</p>
+          <div class="game-instructions">
+            <span>Up Arrow / W / Space: Jump</span>
+            <span>Down Arrow / S: Duck</span>
+            <span>Enter: Start or restart</span>
+          </div>
+        </div>
+
+        <section class="game-panel" aria-label="8-bit Jackall runner game">
+          <div class="game-hud">
+            <div>
+              <span>Score</span>
+              <strong data-game-score>00000</strong>
+            </div>
+            <div>
+              <span>Best</span>
+              <strong data-game-best>00000</strong>
+            </div>
+            <button class="future-button primary" type="button" data-game-start>Start</button>
+          </div>
+          <canvas class="runner-canvas" width="960" height="360" data-jackall-runner aria-label="Playable 8-bit Jackall runner game"></canvas>
+          <div class="touch-controls" aria-label="Touch controls">
+            <button type="button" data-game-jump>Jump</button>
+            <button type="button" data-game-duck>Duck</button>
+          </div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="assets/img/brand/jackall-creative-wordmark-white.png" alt="Jackall Creative">
+          <p>AI education, consulting, creative marketing, websites, photography, video, and brand systems for growing businesses.</p>
+        </div>
+        <div class="footer-links">
+          <a href="index.html">Home</a>
+          <a href="ai-consulting.html">AI Consulting</a>
+          <a href="creative-services.html">Creative Services</a>
+          <a href="work.html">Work</a>
+          <a href="resources.html">Resources</a>
+          <a href="contact.html">Contact</a>
+        </div>
+        <div>
+          <p><strong>Email</strong></p>
+          <p><a href="mailto:jackallcreative@gmail.com">jackallcreative@gmail.com</a></p>
+        </div>
+      </div>
+      <p class="footer-bottom">Jackall Creative. Static Cloudflare-ready rebuild.</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
