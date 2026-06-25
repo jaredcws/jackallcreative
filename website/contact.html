@@ -10,6 +10,7 @@
 </head>
 <body>
   <header class="site-header">
+    <div class="scroll-progress" data-scroll-progress aria-hidden="true"></div>
     <nav class="nav" aria-label="Main navigation">
       <a class="brand" href="index.html" aria-label="Jackall Creative home"><img src="assets/img/brand/jackall-creative-wordmark-black.png" alt="Jackall Creative"></a>
       <button class="nav-toggle" type="button" aria-label="Open navigation" aria-expanded="false" data-nav-toggle><span></span><span></span><span></span></button>
@@ -52,6 +53,17 @@
           </ul>
         </div>
         <div class="contact-panel">
+          <div class="contact-router" data-contact-router>
+            <p class="console-label">AI brief builder</p>
+            <h3>Route the first conversation.</h3>
+            <div class="router-options compact" role="tablist" aria-label="Choose inquiry type">
+              <button class="router-option is-active" type="button" data-contact-choice="AI consulting or training" role="tab" aria-selected="true">AI consulting</button>
+              <button class="router-option" type="button" data-contact-choice="Website or Cloudflare build" role="tab" aria-selected="false">AI-ready site</button>
+              <button class="router-option" type="button" data-contact-choice="Brand, marketing, or documents" role="tab" aria-selected="false">Content system</button>
+              <button class="router-option" type="button" data-contact-choice="Extended creative department support" role="tab" aria-selected="false">Creative OS</button>
+            </div>
+            <p data-contact-summary>Good fit for teams that need an AI opportunity map, training, prompt systems, and practical workflow guidance.</p>
+          </div>
           <form data-contact-form>
             <div class="form-row">
               <label>Name

@@ -2,11 +2,27 @@
   "files": [
     {
       "path": "ai-consulting.html",
-      "bytes": 7670
+      "bytes": 7750
     },
     {
       "path": "assets/css/styles.css",
-      "bytes": 24323
+      "bytes": 39620
+    },
+    {
+      "path": "assets/fonts/Geist-LICENSE.txt",
+      "bytes": 4368
+    },
+    {
+      "path": "assets/fonts/Geist-Variable.woff2",
+      "bytes": 69652
+    },
+    {
+      "path": "assets/fonts/GeistMono-Variable.woff2",
+      "bytes": 71368
+    },
+    {
+      "path": "assets/fonts/GeistPixel-Square.woff2",
+      "bytes": 28540
     },
     {
       "path": "assets/img/brand/jackall-creative-wordmark-black.png",
@@ -114,23 +130,23 @@
     },
     {
       "path": "assets/js/main.js",
-      "bytes": 1262
+      "bytes": 9546
     },
     {
       "path": "contact.html",
-      "bytes": 7260
+      "bytes": 8466
     },
     {
       "path": "creative-services.html",
-      "bytes": 7750
+      "bytes": 7830
     },
     {
       "path": "index.html",
-      "bytes": 12071
+      "bytes": 16940
     },
     {
       "path": "resources.html",
-      "bytes": 5650
+      "bytes": 5730
     },
     {
       "path": "robots.txt",
@@ -142,7 +158,7 @@
     },
     {
       "path": "work.html",
-      "bytes": 7153
+      "bytes": 7233
     },
     {
       "path": "_headers",

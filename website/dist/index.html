@@ -10,6 +10,7 @@
 </head>
 <body>
   <header class="site-header">
+    <div class="scroll-progress" data-scroll-progress aria-hidden="true"></div>
     <nav class="nav" aria-label="Main navigation">
       <a class="brand" href="index.html" aria-label="Jackall Creative home">
         <img src="assets/img/brand/jackall-creative-wordmark-black.png" alt="Jackall Creative">
@@ -35,27 +36,56 @@
       <div class="hero-inner">
         <div class="hero-copy">
           <img class="hero-script" src="assets/img/brand/jackall-script-yellow.png" alt="Jackall Creative">
-          <p class="eyebrow">AI systems / websites / brand / visual media</p>
+          <p class="eyebrow">AI systems / creative operations / brand intelligence</p>
           <h1>Jackall Creative</h1>
-          <p class="lede">The AI-smart creative department for companies that need sharper strategy, better workflows, and finished work that does not look like everyone else.</p>
+          <p class="lede">An AI-enabled creative company that helps teams find the right use cases, build practical workflows, and ship the websites, content, visuals, and marketing systems behind real growth.</p>
           <div class="hero-actions">
             <a class="button" href="contact.html">Schedule an AI Opportunity Call</a>
             <a class="button-secondary" href="creative-services.html">Explore Creative Services</a>
           </div>
         </div>
-        <div class="hero-showcase" aria-label="Selected Jackall Creative work">
-          <div class="showcase-image showcase-primary">
-            <img src="assets/img/portfolio/portfolio-10.png" alt="MODUS brand and website case study graphics">
+        <div class="ai-console" data-ai-console aria-label="AI opportunity console">
+          <div class="console-topbar">
+            <span class="status-dot" aria-hidden="true"></span>
+            <span>Jackall AI Opportunity Scan</span>
+            <span class="console-chip">Live model map</span>
           </div>
-          <div class="showcase-row">
-            <div class="showcase-image">
-              <img src="assets/img/portfolio/portfolio-04.jpg" alt="Modern commercial interior photography">
+          <div class="console-metrics">
+            <div>
+              <strong data-countup data-count-target="18">0</strong>
+              <span>AI use cases mapped</span>
             </div>
-            <div class="showcase-image">
-              <img src="assets/img/portfolio/portfolio-07.jpeg" alt="Printed creative work and website planning">
+            <div>
+              <strong data-countup data-count-target="42">0</strong>
+              <span>creative assets organized</span>
+            </div>
+            <div>
+              <strong data-countup data-count-target="7">0</strong>
+              <span>workflow wins prioritized</span>
             </div>
           </div>
-          <p class="showcase-tag">Real client work, 309 archived source images, and a new AI-enabled creative system.</p>
+          <div class="console-tabs" role="tablist" aria-label="AI workflow views">
+            <button class="console-tab is-active" type="button" data-console-tab="audit" role="tab" aria-selected="true">Audit</button>
+            <button class="console-tab" type="button" data-console-tab="workflow" role="tab" aria-selected="false">Workflow</button>
+            <button class="console-tab" type="button" data-console-tab="content" role="tab" aria-selected="false">Content</button>
+            <button class="console-tab" type="button" data-console-tab="launch" role="tab" aria-selected="false">Launch</button>
+          </div>
+          <div class="console-output" aria-live="polite">
+            <p class="console-label" data-console-label>AI readiness audit</p>
+            <h2 data-console-title>Find the highest-value AI opportunities before buying tools.</h2>
+            <p data-console-copy>We map the work your team repeats, flag risk areas, and rank the first AI workflows by value, effort, and confidence.</p>
+          </div>
+          <div class="ai-pipeline" aria-label="AI implementation loop">
+            <div class="pipeline-step is-active" data-console-step="audit"><span>01</span><strong>Map</strong></div>
+            <div class="pipeline-step" data-console-step="workflow"><span>02</span><strong>Build</strong></div>
+            <div class="pipeline-step" data-console-step="content"><span>03</span><strong>Train</strong></div>
+            <div class="pipeline-step" data-console-step="launch"><span>04</span><strong>Ship</strong></div>
+          </div>
+          <div class="console-log">
+            <p><span>system</span> Crawl current site, inventory assets, identify reusable proof.</p>
+            <p><span>model</span> Match AI use cases to content, proposals, website, and knowledge work.</p>
+            <p><span>output</span> Prioritized AI + creative roadmap ready for implementation.</p>
+          </div>
         </div>
       </div>
     </section>
@@ -75,7 +105,45 @@
       </div>
     </div>
 
-    <section class="section">
+    <section class="section ai-lab" data-reveal>
+      <div class="container ai-lab-grid">
+        <div>
+          <p class="eyebrow">AI operating layer</p>
+          <h2>Make AI feel less like a tool pile and more like a working system.</h2>
+          <p class="section-copy">The new Jackall offer should look and feel like a practical AI company: audits, agents, prompt systems, content engines, training, governance, and creative execution tied together in one operating rhythm.</p>
+          <div class="ai-trust-row" aria-label="AI company focus areas">
+            <span>Prompt systems</span>
+            <span>Agent workflows</span>
+            <span>AI search visibility</span>
+            <span>Creative automation</span>
+          </div>
+        </div>
+        <div class="ai-router" data-ai-router>
+          <div class="router-head">
+            <span class="status-dot" aria-hidden="true"></span>
+            <strong>Opportunity router</strong>
+          </div>
+          <div class="router-options" role="tablist" aria-label="Choose a business goal">
+            <button class="router-option is-active" type="button" data-router-option="content" role="tab" aria-selected="true">Content engine</button>
+            <button class="router-option" type="button" data-router-option="sales" role="tab" aria-selected="false">Sales docs</button>
+            <button class="router-option" type="button" data-router-option="knowledge" role="tab" aria-selected="false">Knowledge base</button>
+            <button class="router-option" type="button" data-router-option="site" role="tab" aria-selected="false">AI-ready site</button>
+          </div>
+          <div class="router-output" aria-live="polite">
+            <p class="console-label" data-router-label>Recommended build</p>
+            <h3 data-router-title>AI-assisted content engine</h3>
+            <p data-router-copy>Turn brand voice, offers, proof, FAQs, and campaign ideas into a repeatable workflow for posts, email, pages, and sales material.</p>
+            <ul data-router-list>
+              <li>Voice and prompt library</li>
+              <li>Editorial calendar workflow</li>
+              <li>Approval and quality checks</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
       <div class="container">
         <div class="section-head">
           <div>
@@ -104,11 +172,11 @@
       </div>
     </section>
 
-    <section class="section dark">
+    <section class="section dark ai-engine-section" data-reveal>
       <div class="container split">
         <div>
           <p class="eyebrow">Practical AI consulting</p>
-          <h2>AI should make your work clearer, faster, and easier to repeat.</h2>
+          <h2>A grounded AI engine for the messy work behind marketing.</h2>
           <p class="section-copy">Jackall Creative helps businesses choose sensible AI use cases, write safe team guidelines, and create workflows that fit the tools and habits they already have.</p>
           <ul class="check-list">
             <li>AI readiness audit and opportunity map</li>
@@ -117,11 +185,21 @@
             <li>Website and marketing workflows that reduce recurring effort</li>
           </ul>
         </div>
-        <img class="feature-image" src="assets/img/portfolio/portfolio-08.jpg" alt="Laptop showing a website project next to a desk plant">
+        <div class="engine-diagram" aria-label="Jackall AI engine diagram">
+          <div class="engine-core">
+            <img src="assets/img/brand/jackall-mark-blue.png" alt="">
+            <span>AI + Creative OS</span>
+          </div>
+          <div class="engine-node node-a">Research</div>
+          <div class="engine-node node-b">Prompt</div>
+          <div class="engine-node node-c">Produce</div>
+          <div class="engine-node node-d">Review</div>
+          <div class="engine-node node-e">Ship</div>
+        </div>
       </div>
     </section>
 
-    <section class="section">
+    <section class="section" data-reveal>
       <div class="container split">
         <div class="image-stack">
           <img src="assets/img/portfolio/portfolio-01.jpg" alt="Architectural interior stair and brick wall">
@@ -140,7 +218,7 @@
       </div>
     </section>
 
-    <section class="section blue">
+    <section class="section blue" data-reveal>
       <div class="container">
         <div class="section-head">
           <div>
@@ -175,7 +253,7 @@
       </div>
     </section>
 
-    <section class="section">
+    <section class="section" data-reveal>
       <div class="container">
         <div class="section-head">
           <div>
