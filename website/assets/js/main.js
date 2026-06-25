@@ -24,7 +24,7 @@ if (scrollProgress) {
 }
 
 const revealItems = document.querySelectorAll(
-  "[data-reveal], .service-card, .process-step, .resource-card, .proof-card, .feature-image, .image-stack",
+  "[data-reveal], .service-card, .process-step, .resource-card, .proof-card, .feature-image, .image-stack, .service-node, .matrix-card, .offer-card, .case-card, .case-study-panel, .work-tile, .brand-object, .interface-panel, .image-wall figure",
 );
 
 if (revealItems.length && "IntersectionObserver" in window) {
@@ -66,8 +66,8 @@ const systemContent = {
   },
   ship: {
     label: "Step 04 / Ship",
-    title: "Pair the system with finished creative execution.",
-    copy: "Build the Cloudflare website, campaign assets, photography, video, documents, and content needed to make the strategy visible.",
+    title: "Make the AI strategy visible through finished creative.",
+    copy: "Build the Cloudflare website, campaign assets, photography, video, documents, and content needed to make the system real.",
     input: "Roadmap, brand assets, image archive",
     output: "Published site, assets, content, and production rhythm",
   },
@@ -160,43 +160,147 @@ if (contactForm) {
   });
 }
 
-const ambientCanvas = document.querySelector("[data-neural-canvas]");
+const neuralCanvases = document.querySelectorAll("[data-neural-canvas]");
 
-if (ambientCanvas && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-  const ctx = ambientCanvas.getContext("2d");
-  let width = 0;
-  let height = 0;
-  let tick = 0;
+if (neuralCanvases.length && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+  neuralCanvases.forEach((canvas, canvasIndex) => {
+    const ctx = canvas.getContext("2d");
+    let width = 0;
+    let height = 0;
+    let nodes = [];
+    let pointer = { x: -9999, y: -9999 };
+    const density = Number(canvas.dataset.neuralDensity || 48);
 
-  const resize = () => {
-    const rect = ambientCanvas.getBoundingClientRect();
-    width = Math.max(1, Math.floor(rect.width * window.devicePixelRatio));
-    height = Math.max(1, Math.floor(rect.height * window.devicePixelRatio));
-    ambientCanvas.width = width;
-    ambientCanvas.height = height;
-  };
+    const makeNodes = () => {
+      nodes = Array.from({ length: density }, (_, index) => {
+        const seed = index + canvasIndex * 31;
+        return {
+          x: ((seed * 83) % Math.max(width, 1)) / Math.max(width, 1),
+          y: ((seed * 47) % Math.max(height, 1)) / Math.max(height, 1),
+          vx: (((seed * 17) % 100) - 50) / 18000,
+          vy: (((seed * 29) % 100) - 50) / 18000,
+          r: 1.2 + ((seed * 13) % 18) / 10,
+        };
+      });
+    };
 
-  const draw = () => {
-    if (!ctx) return;
-    tick += 1;
-    ctx.clearRect(0, 0, width, height);
-    ctx.strokeStyle = "rgba(33, 169, 232, 0.16)";
-    ctx.lineWidth = window.devicePixelRatio;
+    const resize = () => {
+      const rect = canvas.getBoundingClientRect();
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      width = Math.max(1, Math.floor(rect.width * dpr));
+      height = Math.max(1, Math.floor(rect.height * dpr));
+      canvas.width = width;
+      canvas.height = height;
+      makeNodes();
+    };
 
-    for (let x = -((tick * 0.4) % 80); x < width; x += 80) {
-      ctx.beginPath();
-      ctx.moveTo(x, 0);
-      ctx.lineTo(x + height * 0.25, height);
-      ctx.stroke();
-    }
+    const draw = () => {
+      if (!ctx) return;
+      ctx.clearRect(0, 0, width, height);
+      const maxDistance = Math.min(width, height) * 0.26;
 
-    requestAnimationFrame(draw);
-  };
+      nodes.forEach((node) => {
+        node.x += node.vx;
+        node.y += node.vy;
+        if (node.x < 0 || node.x > 1) node.vx *= -1;
+        if (node.y < 0 || node.y > 1) node.vy *= -1;
+      });
 
-  resize();
-  draw();
-  window.addEventListener("resize", resize);
+      for (let i = 0; i < nodes.length; i += 1) {
+        const first = nodes[i];
+        const ax = first.x * width;
+        const ay = first.y * height;
+
+        for (let j = i + 1; j < nodes.length; j += 1) {
+          const second = nodes[j];
+          const bx = second.x * width;
+          const by = second.y * height;
+          const dx = ax - bx;
+          const dy = ay - by;
+          const distance = Math.sqrt(dx * dx + dy * dy);
+          if (distance > maxDistance) continue;
+          const alpha = (1 - distance / maxDistance) * 0.28;
+          ctx.strokeStyle = `rgba(33, 169, 232, ${alpha})`;
+          ctx.lineWidth = 1;
+          ctx.beginPath();
+          ctx.moveTo(ax, ay);
+          ctx.lineTo(bx, by);
+          ctx.stroke();
+        }
+
+        const pdx = ax - pointer.x;
+        const pdy = ay - pointer.y;
+        const pointerDistance = Math.sqrt(pdx * pdx + pdy * pdy);
+        if (pointerDistance < maxDistance * 0.9) {
+          ctx.strokeStyle = `rgba(232, 239, 47, ${1 - pointerDistance / (maxDistance * 0.9)})`;
+          ctx.beginPath();
+          ctx.moveTo(ax, ay);
+          ctx.lineTo(pointer.x, pointer.y);
+          ctx.stroke();
+        }
+
+        ctx.fillStyle = "rgba(255, 255, 255, 0.74)";
+        ctx.beginPath();
+        ctx.arc(ax, ay, first.r, 0, Math.PI * 2);
+        ctx.fill();
+      }
+
+      requestAnimationFrame(draw);
+    };
+
+    canvas.closest("section")?.addEventListener("pointermove", (event) => {
+      const rect = canvas.getBoundingClientRect();
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      pointer = {
+        x: (event.clientX - rect.left) * dpr,
+        y: (event.clientY - rect.top) * dpr,
+      };
+    });
+
+    canvas.closest("section")?.addEventListener("pointerleave", () => {
+      pointer = { x: -9999, y: -9999 };
+    });
+
+    resize();
+    draw();
+    window.addEventListener("resize", resize);
+  });
 }
+
+const workFilters = document.querySelectorAll("[data-work-filter]");
+const workItems = document.querySelectorAll("[data-work-item]");
+
+if (workFilters.length && workItems.length) {
+  workFilters.forEach((filter) => {
+    filter.addEventListener("click", () => {
+      const category = filter.dataset.workFilter || "all";
+      workFilters.forEach((item) => {
+        const active = item === filter;
+        item.classList.toggle("is-active", active);
+        item.setAttribute("aria-selected", String(active));
+      });
+      workItems.forEach((item) => {
+        const categories = (item.dataset.category || "").split(" ");
+        item.toggleAttribute("data-hidden", category !== "all" && !categories.includes(category));
+      });
+    });
+  });
+}
+
+const tiltItems = document.querySelectorAll("[data-tilt]");
+
+tiltItems.forEach((item) => {
+  item.addEventListener("pointermove", (event) => {
+    const rect = item.getBoundingClientRect();
+    const x = (event.clientX - rect.left) / rect.width - 0.5;
+    const y = (event.clientY - rect.top) / rect.height - 0.5;
+    item.style.transform = `perspective(900px) rotateX(${y * -4}deg) rotateY(${x * 4}deg) translateY(-4px)`;
+  });
+
+  item.addEventListener("pointerleave", () => {
+    item.style.transform = "";
+  });
+});
 
 const runnerCanvas = document.querySelector("[data-jackall-runner]");
 

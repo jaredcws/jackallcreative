@@ -2,11 +2,11 @@
   "files": [
     {
       "path": "ai-consulting.html",
-      "bytes": 7813
+      "bytes": 9654
     },
     {
       "path": "assets/css/styles.css",
-      "bytes": 22839
+      "bytes": 40430
     },
     {
       "path": "assets/fonts/Geist-LICENSE.txt",
@@ -55,6 +55,38 @@
     {
       "path": "assets/img/brand/jackall-wordmark-black.png",
       "bytes": 76854
+    },
+    {
+      "path": "assets/img/brand-2026/jackall-body-black.png",
+      "bytes": 57770
+    },
+    {
+      "path": "assets/img/brand-2026/jackall-head-black.png",
+      "bytes": 73413
+    },
+    {
+      "path": "assets/img/brand-2026/jackall-head-white.png",
+      "bytes": 69570
+    },
+    {
+      "path": "assets/img/brand-2026/jackall-j-black.png",
+      "bytes": 79016
+    },
+    {
+      "path": "assets/img/brand-2026/jackall-paw-black.png",
+      "bytes": 69239
+    },
+    {
+      "path": "assets/img/brand-2026/jackall-paw-white.png",
+      "bytes": 65401
+    },
+    {
+      "path": "assets/img/brand-2026/jackall-wordmark-black.png",
+      "bytes": 76854
+    },
+    {
+      "path": "assets/img/brand-2026/jackall-wordmark-white.png",
+      "bytes": 73541
     },
     {
       "path": "assets/img/portfolio/portfolio-01.jpg",
@@ -129,28 +161,136 @@
       "bytes": 1148354
     },
     {
+      "path": "assets/img/work/case-apregem.png",
+      "bytes": 408644
+    },
+    {
+      "path": "assets/img/work/case-bdc.png",
+      "bytes": 2518277
+    },
+    {
+      "path": "assets/img/work/case-bernhardt-smith.png",
+      "bytes": 1802828
+    },
+    {
+      "path": "assets/img/work/case-blackbird.png",
+      "bytes": 2227550
+    },
+    {
+      "path": "assets/img/work/case-igor.png",
+      "bytes": 329227
+    },
+    {
+      "path": "assets/img/work/case-kjohnson.png",
+      "bytes": 1430040
+    },
+    {
+      "path": "assets/img/work/case-midwest-mattress.png",
+      "bytes": 693835
+    },
+    {
+      "path": "assets/img/work/case-modus.png",
+      "bytes": 1957392
+    },
+    {
+      "path": "assets/img/work/media-eii-youtube.jpg",
+      "bytes": 90300
+    },
+    {
+      "path": "assets/img/work/media-modus-video.jpg",
+      "bytes": 128036
+    },
+    {
+      "path": "assets/img/work/media-modus-youtube.jpg",
+      "bytes": 637139
+    },
+    {
+      "path": "assets/img/work/office-bernhardt-smith.jpg",
+      "bytes": 185241
+    },
+    {
+      "path": "assets/img/work/product-igor-2019.png",
+      "bytes": 401879
+    },
+    {
+      "path": "assets/img/work/product-igor-2020.png",
+      "bytes": 373447
+    },
+    {
+      "path": "assets/img/work/product-midwest-mattress.jpg",
+      "bytes": 1144300
+    },
+    {
+      "path": "assets/img/work/project-bdc-big-grove.jpg",
+      "bytes": 146609
+    },
+    {
+      "path": "assets/img/work/project-big-grove.jpg",
+      "bytes": 192947
+    },
+    {
+      "path": "assets/img/work/project-gateway-bridge.jpg",
+      "bytes": 295173
+    },
+    {
+      "path": "assets/img/work/project-harkin.jpg",
+      "bytes": 177269
+    },
+    {
+      "path": "assets/img/work/project-market-one-rooftop.jpg",
+      "bytes": 764704
+    },
+    {
+      "path": "assets/img/work/project-market-one.jpg",
+      "bytes": 159458
+    },
+    {
+      "path": "assets/img/work/project-oak-park.jpg",
+      "bytes": 328795
+    },
+    {
+      "path": "assets/img/work/project-rise.jpg",
+      "bytes": 313416
+    },
+    {
+      "path": "assets/img/work/project-wilkins-after.jpg",
+      "bytes": 980991
+    },
+    {
+      "path": "assets/img/work/project-wilkins-before.jpg",
+      "bytes": 535651
+    },
+    {
+      "path": "assets/img/work/web-blackbird.jpg",
+      "bytes": 546575
+    },
+    {
+      "path": "assets/img/work/web-kjohnson.png",
+      "bytes": 3195647
+    },
+    {
       "path": "assets/js/main.js",
-      "bytes": 15612
+      "bytes": 19470
     },
     {
       "path": "contact.html",
-      "bytes": 8529
+      "bytes": 8718
     },
     {
       "path": "creative-services.html",
-      "bytes": 7893
+      "bytes": 12750
     },
     {
       "path": "game.html",
-      "bytes": 4012
+      "bytes": 4035
     },
     {
       "path": "index.html",
-      "bytes": 10547
+      "bytes": 17190
     },
     {
       "path": "resources.html",
-      "bytes": 5793
+      "bytes": 5982
     },
     {
       "path": "robots.txt",
@@ -162,7 +302,7 @@
     },
     {
       "path": "work.html",
-      "bytes": 7296
+      "bytes": 17946
     },
     {
       "path": "_headers",
